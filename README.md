@@ -16,7 +16,6 @@ test fixtures.
 | [B3](B3) | B3 - Brasil Bolsa Balcao |
 | [Box](Box) | BOX Options Exchange |
 | [Cboe](Cboe) | Cboe Global Markets |
-| [CixAts](CixAts) | CIX Trading Inc. |
 | [Cme](Cme) | CME Group |
 | [Coinbase](Coinbase) | Coinbase |
 | [Eurex](Eurex) | Eurex Exchange |
