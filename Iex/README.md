@@ -1,13 +1,20 @@
+[![Iex](https://github.com/Open-Markets-Initiative/Directory/blob/main/Organizations/Iex/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Directory/tree/main/Organizations/Iex)
+
 # Iex Example Data
 
 Packet captures for Iex, organized by protocol and version.
 
-| Protocol | Model | Captures | Source |
-| --- | --- | --- | --- |
-| [IexEquities.Deep.v1.0](IexEquities.Deep.v1.0) | `Iex.IexEquities.Deep.IexTp.v1.06` | 3 | [iextrading.com](https://iextrading.com/trading/market-data/) |
-| [IexEquities.DeepPlus.v1.0.2](IexEquities.DeepPlus.v1.0.2) | `Iex.IexEquities.DeepPlus.IexTp.v1.01` | 14 | [iextrading.com](https://iextrading.com/trading/market-data/) |
-| [IexEquities.Tops.v1.5](IexEquities.Tops.v1.5) | `Iex.IexEquities.Tops.IexTp.v1.56` | 9 | [iextrading.com](https://iextrading.com/trading/market-data/) |
-| [IexEquities.Tops.v1.6](IexEquities.Tops.v1.6) | `Iex.IexEquities.Tops.IexTp.v1.64` | 1 | [iextrading.com](https://iextrading.com/trading/market-data/) |
+| Protocol | Source |
+| --- | --- |
+| [IexEquities.Deep.v1.0][IexEquities.Deep.v1.0] | [Investors Exchange][Investors.Exchange] |
+| [IexEquities.DeepPlus.v1.0.2][IexEquities.DeepPlus.v1.0.2] | [Investors Exchange][Investors.Exchange] |
+| [IexEquities.Tops.v1.5][IexEquities.Tops.v1.5] | [Investors Exchange][Investors.Exchange] |
+| [IexEquities.Tops.v1.6][IexEquities.Tops.v1.6] | [Investors Exchange][Investors.Exchange] |
 
 Packet captures have been collected from publicly available sources. If any information is in violation of copyright please let us know and we will remove it.
 
+[IexEquities.Deep.v1.0]: IexEquities.Deep.v1.0 "IexEquities.Deep.v1.0"
+[IexEquities.DeepPlus.v1.0.2]: IexEquities.DeepPlus.v1.0.2 "IexEquities.DeepPlus.v1.0.2"
+[IexEquities.Tops.v1.5]: IexEquities.Tops.v1.5 "IexEquities.Tops.v1.5"
+[IexEquities.Tops.v1.6]: IexEquities.Tops.v1.6 "IexEquities.Tops.v1.6"
+[Investors.Exchange]: https://iextrading.com/trading/market-data/ "Investors Exchange"
