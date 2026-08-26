@@ -2,7 +2,7 @@
 
 # Omi Example Data
 
-[![Organizations](https://img.shields.io/badge/Organizations-19-blue)](#organizations) [![Captures](https://img.shields.io/badge/Captures-461-green)](#organizations)
+[![Organizations](https://img.shields.io/badge/Organizations-19-blue)](#organizations) [![Protocols](https://img.shields.io/badge/Protocols-73-green)](#organizations) [![Packets](https://img.shields.io/badge/Packets-461-orange)](#organizations)
 
 Sample market data for testing.
 
@@ -19,38 +19,11 @@ A fixture path reads as the protocol it exercises:
 
 For example `Asx/AsxDerivatives.Ntp.v1.05/AddOrderMessage.pcap`. The encoding appears only where it is needed to keep the name unique, where one exchange and protocol are published in more than one encoding.
 
-## Conventions
-
-| Pattern | Meaning |
-| --- | --- |
-| `<MessageName>.pcap` | Single message, Udp multicast encapsulation |
-| `<MessageName>.Tcp.pcap` | Single message, Tcp encapsulation |
-| `MultipleMessages.pcap` | Several messages in one packet, exercising block iteration |
-| `all_message_types.pcap` | Every message type of a protocol in one capture |
-
 ## Organizations
 
-| Folder | Protocols | Captures |
-| --- | --- | --- |
-| [Asx](Asx) | 1 | 21 |
-| [B3](B3) | 4 | 15 |
-| [Box](Box) | 1 | 1 |
-| [Cboe](Cboe) | 10 | 73 |
-| [Cme](Cme) | 5 | 24 |
-| [Coinbase](Coinbase) | 4 | 42 |
-| [Eurex](Eurex) | 4 | 16 |
-| [Ice](Ice) | 2 | 15 |
-| [Iex](Iex) | 4 | 27 |
-| [Imperative](Imperative) | 1 | 2 |
-| [Jnx](Jnx) | 2 | 10 |
-| [Memx](Memx) | 1 | 10 |
-| [Miax](Miax) | 3 | 19 |
-| [Nasdaq](Nasdaq) | 11 | 81 |
-| [Nyse](Nyse) | 8 | 43 |
-| [Otc](Otc) | 2 | 9 |
-| [Siac](Siac) | 7 | 42 |
-| [Tmx](Tmx) | 2 | 7 |
-| [Txse](Txse) | 1 | 4 |
+> [Asx](Asx) · [B3](B3) · [Box](Box) · [Cboe](Cboe) · [Cme](Cme) · [Coinbase](Coinbase) · [Eurex](Eurex) · [Ice](Ice) · [Iex](Iex) · [Imperative](Imperative) · [Jnx](Jnx) · [Memx](Memx) · [Miax](Miax) · [Nasdaq](Nasdaq) · [Nyse](Nyse) · [OtcMarkets](OtcMarkets) · [Siac](Siac) · [Tmx](Tmx) · [Txse](Txse)
+
+---
 
 ## Sources
 
