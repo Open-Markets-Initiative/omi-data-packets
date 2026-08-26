@@ -9,7 +9,7 @@ Packet captures for Nasdaq, organized by protocol and version.
 | [IseOptions.OrderComboFeed.v1.1][IseOptions.OrderComboFeed.v1.1] |  |
 | [IseOptions.TopComboQuoteFeed.v1.0][IseOptions.TopComboQuoteFeed.v1.0] |  |
 | [NsmEquities.NlsPlus.v4.0.20241105][NsmEquities.NlsPlus.v4.0.20241105] | [Databento][Databento] |
-| [NsmEquities.Orders.v5.0][NsmEquities.Orders.v5.0] | [Open Markets Initiative][Open.Markets.Initiative] |
+| [NsmEquities.Orders.v5.0][NsmEquities.Orders.v5.0] | [Issue 53][Issue.53] |
 | [NsmEquities.Qbbo.v2.1.20241105][NsmEquities.Qbbo.v2.1.20241105] |  |
 | [NsmEquities.TotalView.v5.0][NsmEquities.TotalView.v5.0] | [Databento][Databento] |
 | [NsmEquities.TotalView.v5.0.20230822][NsmEquities.TotalView.v5.0.20230822] | [Databento][Databento] |
@@ -32,4 +32,4 @@ Packet captures have been collected from publicly available sources. If any info
 [PsxEquities.TotalView.v5.0.20230822]: PsxEquities.TotalView.v5.0.20230822 "PsxEquities.TotalView.v5.0.20230822"
 [Uqdf.Output.v1.5]: Uqdf.Output.v1.5 "Uqdf.Output.v1.5"
 [Databento]: https://databento.com/pcaps "Databento"
-[Open.Markets.Initiative]: https://github.com/Open-Markets-Initiative/wireshark-lua/issues/53 "Open Markets Initiative"
+[Issue.53]: https://github.com/Open-Markets-Initiative/wireshark-lua/issues/53 "Open Markets Initiative"

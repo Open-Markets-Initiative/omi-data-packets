@@ -8,7 +8,7 @@ Packet captures for Eurex, organized by protocol and version.
 | --- | --- |
 | [T7.Eobi.v3.0][T7.Eobi.v3.0] |  |
 | [T7.Eobi.v6.0][T7.Eobi.v6.0] |  |
-| [T7.Eti.v6.1][T7.Eti.v6.1] | [Open Markets Initiative][Open.Markets.Initiative] |
+| [T7.Eti.v6.1][T7.Eti.v6.1] | [Issue 42][Issue.42] |
 | [T7.Xti.v10.0][T7.Xti.v10.0] |  |
 
 Packet captures have been collected from publicly available sources. If any information is in violation of copyright please let us know and we will remove it.
@@ -17,4 +17,4 @@ Packet captures have been collected from publicly available sources. If any info
 [T7.Eobi.v6.0]: T7.Eobi.v6.0 "T7.Eobi.v6.0"
 [T7.Eti.v6.1]: T7.Eti.v6.1 "T7.Eti.v6.1"
 [T7.Xti.v10.0]: T7.Xti.v10.0 "T7.Xti.v10.0"
-[Open.Markets.Initiative]: https://github.com/Open-Markets-Initiative/wireshark-lua/issues/42 "Open Markets Initiative"
+[Issue.42]: https://github.com/Open-Markets-Initiative/wireshark-lua/issues/42 "Open Markets Initiative"

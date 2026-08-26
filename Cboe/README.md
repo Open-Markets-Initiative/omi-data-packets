@@ -13,7 +13,7 @@ Packet captures for Cboe, organized by protocol and version.
 | [C1Options.MarketDataFeed.v1.4.4][C1Options.MarketDataFeed.v1.4.4] | [Databento][Databento] |
 | [C1Options.MarketLevel2.v1.0.4][C1Options.MarketLevel2.v1.0.4] | [Databento][Databento] |
 | [C1Options.MulticastDepthOfBook.v2.39.4][C1Options.MulticastDepthOfBook.v2.39.4] | [Databento][Databento] |
-| [CfeFutures.BinaryOrderEntry.v1.1.31][CfeFutures.BinaryOrderEntry.v1.1.31] | [Open Markets Initiative][Open.Markets.Initiative.2] |
+| [CfeFutures.BinaryOrderEntry.v1.1.31][CfeFutures.BinaryOrderEntry.v1.1.31] | [Issue 69][Issue.69] |
 | [CfeFutures.MulticastDepthOfBook.v1.1.12][CfeFutures.MulticastDepthOfBook.v1.1.12] | [Databento][Databento] |
 | [CfeFutures.MulticastDepthOfBook.v1.1.6][CfeFutures.MulticastDepthOfBook.v1.1.6] | [Databento][Databento] |
 
@@ -31,4 +31,4 @@ Packet captures have been collected from publicly available sources. If any info
 [CfeFutures.MulticastDepthOfBook.v1.1.6]: CfeFutures.MulticastDepthOfBook.v1.1.6 "CfeFutures.MulticastDepthOfBook.v1.1.6"
 [Databento]: https://databento.com/pcaps "Databento"
 [Open.Markets.Initiative]: https://github.com/Open-Markets-Initiative/omi-data-packets "Open Markets Initiative"
-[Open.Markets.Initiative.2]: https://github.com/Open-Markets-Initiative/wireshark-lua/issues/69 "Open Markets Initiative"
+[Issue.69]: https://github.com/Open-Markets-Initiative/wireshark-lua/issues/69 "Open Markets Initiative"

@@ -6,10 +6,10 @@ Packet captures for Coinbase, organized by protocol and version.
 
 | Protocol | Source |
 | --- | --- |
-| [CoinbaseDerivatives.MarketDataApi.v1.2][CoinbaseDerivatives.MarketDataApi.v1.2] | directly from Coinbase |
-| [CoinbaseDerivatives.OrdersApi.v1.4][CoinbaseDerivatives.OrdersApi.v1.4] | directly from Coinbase |
-| [Deribit.MarketDataApi.v0.1][Deribit.MarketDataApi.v0.1] | directly from Coinbase |
-| [Deribit.OrdersApi.v0.1][Deribit.OrdersApi.v0.1] | directly from Coinbase |
+| [CoinbaseDerivatives.MarketDataApi.v1.2][CoinbaseDerivatives.MarketDataApi.v1.2] | Donated from Coinbase |
+| [CoinbaseDerivatives.OrdersApi.v1.4][CoinbaseDerivatives.OrdersApi.v1.4] | Donated from Coinbase |
+| [Deribit.MarketDataApi.v0.1][Deribit.MarketDataApi.v0.1] | Donated from Coinbase |
+| [Deribit.OrdersApi.v0.1][Deribit.OrdersApi.v0.1] | Donated from Coinbase |
 
 Packet captures have been collected from publicly available sources. If any information is in violation of copyright please let us know and we will remove it.
 
