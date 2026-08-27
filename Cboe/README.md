@@ -11,8 +11,8 @@ Packet captures for Cboe, organized by protocol and version.
 | [BzxEquities.MulticastDepthOfBook.v2.41.29][BzxEquities.MulticastDepthOfBook.v2.41.29] | [Databento][Databento.2] |
 | [BzxOptions.BinaryOrderEntry.v2.10][BzxOptions.BinaryOrderEntry.v2.10] | [Databento][Databento] |
 | [C1Options.Complex.v2.1.18][C1Options.Complex.v2.1.18] | [Databento][Databento] |
-| [C1Options.MarketDataFeed.v1.4.4][C1Options.MarketDataFeed.v1.4.4] | [Databento][Databento] |
-| [C1Options.MarketLevel2.v1.0.4][C1Options.MarketLevel2.v1.0.4] | [Databento][Databento] |
+| [C1Options.MarketDataFeed.v1.4.4][C1Options.MarketDataFeed.v1.4.4] |  |
+| [C1Options.MarketLevel2.v1.0.4][C1Options.MarketLevel2.v1.0.4] |  |
 | [C1Options.MulticastDepthOfBook.v2.39.4][C1Options.MulticastDepthOfBook.v2.39.4] | [Databento][Databento] |
 | [CfeFutures.BinaryOrderEntry.v1.1.20][CfeFutures.BinaryOrderEntry.v1.1.20] | [Issue 69][Issue.69] |
 | [CfeFutures.MulticastDepthOfBook.v1.1.12][CfeFutures.MulticastDepthOfBook.v1.1.12] | [Databento][Databento] |
