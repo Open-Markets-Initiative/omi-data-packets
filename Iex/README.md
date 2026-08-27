@@ -6,15 +6,15 @@ Packet captures for Iex, organized by protocol and version.
 
 | Protocol | Source |
 | --- | --- |
-| [IexEquities.Deep.v1.0][IexEquities.Deep.v1.0] | [Investors Exchange][Investors.Exchange] |
+| [IexEquities.Deep.v1.06][IexEquities.Deep.v1.06] | [Investors Exchange][Investors.Exchange] |
 | [IexEquities.DeepPlus.v1.0.2][IexEquities.DeepPlus.v1.0.2] | [Investors Exchange][Investors.Exchange] |
-| [IexEquities.Tops.v1.5][IexEquities.Tops.v1.5] | [Investors Exchange][Investors.Exchange] |
-| [IexEquities.Tops.v1.6][IexEquities.Tops.v1.6] | [Investors Exchange][Investors.Exchange] |
+| [IexEquities.Tops.v1.56][IexEquities.Tops.v1.56] | [Investors Exchange][Investors.Exchange] |
+| [IexEquities.Tops.v1.64][IexEquities.Tops.v1.64] | [Investors Exchange][Investors.Exchange] |
 
 Packet captures have been collected from publicly available sources. If any information is in violation of copyright please let us know and we will remove it.
 
-[IexEquities.Deep.v1.0]: IexEquities.Deep.v1.0 "IexEquities.Deep.v1.0"
+[IexEquities.Deep.v1.06]: IexEquities.Deep.v1.06 "IexEquities.Deep.v1.06"
 [IexEquities.DeepPlus.v1.0.2]: IexEquities.DeepPlus.v1.0.2 "IexEquities.DeepPlus.v1.0.2"
-[IexEquities.Tops.v1.5]: IexEquities.Tops.v1.5 "IexEquities.Tops.v1.5"
-[IexEquities.Tops.v1.6]: IexEquities.Tops.v1.6 "IexEquities.Tops.v1.6"
+[IexEquities.Tops.v1.56]: IexEquities.Tops.v1.56 "IexEquities.Tops.v1.56"
+[IexEquities.Tops.v1.64]: IexEquities.Tops.v1.64 "IexEquities.Tops.v1.64"
 [Investors.Exchange]: https://iextrading.com/trading/market-data/ "Investors Exchange"

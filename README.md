@@ -1,6 +1,6 @@
 # Omi Example Data
 
-[![Organizations](https://img.shields.io/badge/Organizations-19-blue)](#organizations) [![Protocols](https://img.shields.io/badge/Protocols-76-green)](#organizations) [![Packets](https://img.shields.io/badge/Packets-497-orange)](#organizations)
+[![Organizations](https://img.shields.io/badge/Organizations-19-blue)](#organizations) [![Protocols](https://img.shields.io/badge/Protocols-81-green)](#organizations) [![Packets](https://img.shields.io/badge/Packets-535-orange)](#organizations)
 
 Sample market data for testing.
 
@@ -17,17 +17,6 @@ For a list of Omi projects: [Omi Projects](https://github.com/Open-Markets-Initi
 For details of Omi rules and regulations: [Omi Directory](https://github.com/Open-Markets-Initiative/Directory "Open Markets Initiative Directory")
 
 ---
-
-## Layout
-
-A fixture path reads as the protocol it exercises:
-
-
-```
-<Organization>/<Exchange>.<Protocol>[.<Encoding>].<Version>/<MessageName>.pcap
-```
-
-For example `Asx/AsxDerivatives.Ntp.v1.05/AddOrderMessage.pcap`. The encoding appears only where it is needed to keep the name unique, where one exchange and protocol are published in more than one encoding.
 
 ## Organizations
 

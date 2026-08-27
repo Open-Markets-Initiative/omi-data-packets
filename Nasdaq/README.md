@@ -8,10 +8,10 @@ Packet captures for Nasdaq, organized by protocol and version.
 | --- | --- |
 | [IseOptions.OrderComboFeed.v1.1][IseOptions.OrderComboFeed.v1.1] |  |
 | [IseOptions.TopComboQuoteFeed.v1.0][IseOptions.TopComboQuoteFeed.v1.0] |  |
-| [NsmEquities.NlsPlus.v4.0.20241105][NsmEquities.NlsPlus.v4.0.20241105] | [Databento][Databento] |
+| [NsmEquities.NlsPlus.v4.0][NsmEquities.NlsPlus.v4.0] | [Databento][Databento] |
 | [NsmEquities.Orders.v5.0][NsmEquities.Orders.v5.0] | [Issue 53][Issue.53] |
-| [NsmEquities.Qbbo.v2.1.20241105][NsmEquities.Qbbo.v2.1.20241105] |  |
-| [NsmEquities.TotalView.v5.0][NsmEquities.TotalView.v5.0] | [Databento][Databento] |
+| [NsmEquities.Qbbo.v2.1][NsmEquities.Qbbo.v2.1] |  |
+| [NsmEquities.TotalView.v5.0.2017][NsmEquities.TotalView.v5.0.2017] | [Databento][Databento] |
 | [NsmEquities.TotalView.v5.0.20230822][NsmEquities.TotalView.v5.0.20230822] | [Databento][Databento] |
 | [NtxEquities.TotalView.v5.0][NtxEquities.TotalView.v5.0] | [Databento][Databento] |
 | [NtxEquities.TotalView.v5.0.20230822][NtxEquities.TotalView.v5.0.20230822] | [Databento][Databento] |
@@ -22,10 +22,10 @@ Packet captures have been collected from publicly available sources. If any info
 
 [IseOptions.OrderComboFeed.v1.1]: IseOptions.OrderComboFeed.v1.1 "IseOptions.OrderComboFeed.v1.1"
 [IseOptions.TopComboQuoteFeed.v1.0]: IseOptions.TopComboQuoteFeed.v1.0 "IseOptions.TopComboQuoteFeed.v1.0"
-[NsmEquities.NlsPlus.v4.0.20241105]: NsmEquities.NlsPlus.v4.0.20241105 "NsmEquities.NlsPlus.v4.0.20241105"
+[NsmEquities.NlsPlus.v4.0]: NsmEquities.NlsPlus.v4.0 "NsmEquities.NlsPlus.v4.0"
 [NsmEquities.Orders.v5.0]: NsmEquities.Orders.v5.0 "NsmEquities.Orders.v5.0"
-[NsmEquities.Qbbo.v2.1.20241105]: NsmEquities.Qbbo.v2.1.20241105 "NsmEquities.Qbbo.v2.1.20241105"
-[NsmEquities.TotalView.v5.0]: NsmEquities.TotalView.v5.0 "NsmEquities.TotalView.v5.0"
+[NsmEquities.Qbbo.v2.1]: NsmEquities.Qbbo.v2.1 "NsmEquities.Qbbo.v2.1"
+[NsmEquities.TotalView.v5.0.2017]: NsmEquities.TotalView.v5.0.2017 "NsmEquities.TotalView.v5.0.2017"
 [NsmEquities.TotalView.v5.0.20230822]: NsmEquities.TotalView.v5.0.20230822 "NsmEquities.TotalView.v5.0.20230822"
 [NtxEquities.TotalView.v5.0]: NtxEquities.TotalView.v5.0 "NtxEquities.TotalView.v5.0"
 [NtxEquities.TotalView.v5.0.20230822]: NtxEquities.TotalView.v5.0.20230822 "NtxEquities.TotalView.v5.0.20230822"
