@@ -6,9 +6,9 @@ Packet captures for Txse, organized by protocol and version.
 
 | Protocol | Source |
 | --- | --- |
-| [TxseEquities.Seed.v1.0][TxseEquities.Seed.v1.0] | [Texas Stock Exchange][Texas.Stock.Exchange] |
+| [TxseEquities.Seed.Rake.v1.0][TxseEquities.Seed.Rake.v1.0] | [Texas Stock Exchange][Texas.Stock.Exchange] |
 
 Packet captures have been collected from publicly available sources. If any information is in violation of copyright please let us know and we will remove it.
 
-[TxseEquities.Seed.v1.0]: TxseEquities.Seed.v1.0 "TxseEquities.Seed.v1.0"
+[TxseEquities.Seed.Rake.v1.0]: TxseEquities.Seed.Rake.v1.0 "TxseEquities.Seed.Rake.v1.0"
 [Texas.Stock.Exchange]: https://www.txse.com "Texas Stock Exchange"
