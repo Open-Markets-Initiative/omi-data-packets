@@ -6,9 +6,9 @@ Packet captures for Asx, organized by protocol and version.
 
 | Protocol | Source |
 | --- | --- |
-| [AsxDerivatives.Ntp.v1.05][AsxDerivatives.Ntp.v1.05] | [Issue 22][Issue.22] |
+| [AsxDerivatives.Ntp.Itch.v1.05][AsxDerivatives.Ntp.Itch.v1.05] | [Issue 22][Issue.22] |
 
 Packet captures have been collected from publicly available sources. If any information is in violation of copyright please let us know and we will remove it.
 
-[AsxDerivatives.Ntp.v1.05]: AsxDerivatives.Ntp.v1.05 "AsxDerivatives.Ntp.v1.05"
+[AsxDerivatives.Ntp.Itch.v1.05]: AsxDerivatives.Ntp.Itch.v1.05 "AsxDerivatives.Ntp.Itch.v1.05"
 [Issue.22]: https://github.com/Open-Markets-Initiative/wireshark-lua/issues/22 "Open Markets Initiative"
