@@ -10,7 +10,6 @@ Packet captures for Jnx, organized by protocol and version.
 | [JnxEquities.Pts.Itch.v1.6][JnxEquities.Pts.Itch.v1.6] | [Japannext][Japannext] |
 | [JnxEquities.Pts.Itch.v1.7][JnxEquities.Pts.Itch.v1.7] | [Japannext][Japannext] |
 | [JnxEquities.Pts.Ouch.v1.11][JnxEquities.Pts.Ouch.v1.11] | [Japannext][Japannext] |
-| [JnxEquities.Pts.Ouch.v1.12][JnxEquities.Pts.Ouch.v1.12] | [Japannext][Japannext] |
 
 Packet captures have been collected from publicly available sources. If any information is in violation of copyright please let us know and we will remove it.
 
@@ -18,5 +17,4 @@ Packet captures have been collected from publicly available sources. If any info
 [JnxEquities.Pts.Itch.v1.6]: JnxEquities.Pts.Itch.v1.6 "JnxEquities.Pts.Itch.v1.6"
 [JnxEquities.Pts.Itch.v1.7]: JnxEquities.Pts.Itch.v1.7 "JnxEquities.Pts.Itch.v1.7"
 [JnxEquities.Pts.Ouch.v1.11]: JnxEquities.Pts.Ouch.v1.11 "JnxEquities.Pts.Ouch.v1.11"
-[JnxEquities.Pts.Ouch.v1.12]: JnxEquities.Pts.Ouch.v1.12 "JnxEquities.Pts.Ouch.v1.12"
 [Japannext]: https://www.japannext.co.jp/en/pts "Japannext"
