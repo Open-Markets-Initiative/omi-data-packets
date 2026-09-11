@@ -14,6 +14,7 @@ Packet captures for Cboe, organized by protocol and version.
 | [C1Options.MarketDataFeed.Csm.v1.4.4][C1Options.MarketDataFeed.Csm.v1.4.4] |  |
 | [C1Options.MarketLevel2.Csm.v1.0.4][C1Options.MarketLevel2.Csm.v1.0.4] |  |
 | [C1Options.MulticastDepthOfBook.Pitch.v2.39.4][C1Options.MulticastDepthOfBook.Pitch.v2.39.4] | [Databento][Databento] |
+| [C1Options.OpeningAuction.Csm.v1.0][C1Options.OpeningAuction.Csm.v1.0] |  |
 | [CfeFutures.BinaryOrderEntry.Boe3.v1.1.20][CfeFutures.BinaryOrderEntry.Boe3.v1.1.20] | [Issue 69][Issue.69] |
 | [CfeFutures.MulticastDepthOfBook.Pitch.v1.1.12][CfeFutures.MulticastDepthOfBook.Pitch.v1.1.12] | [Databento][Databento] |
 | [CfeFutures.MulticastDepthOfBook.Pitch.v1.1.6][CfeFutures.MulticastDepthOfBook.Pitch.v1.1.6] | [Databento][Databento] |
@@ -31,6 +32,7 @@ Packet captures have been collected from publicly available sources. If any info
 [C1Options.MarketDataFeed.Csm.v1.4.4]: C1Options.MarketDataFeed.Csm.v1.4.4 "C1Options.MarketDataFeed.Csm.v1.4.4"
 [C1Options.MarketLevel2.Csm.v1.0.4]: C1Options.MarketLevel2.Csm.v1.0.4 "C1Options.MarketLevel2.Csm.v1.0.4"
 [C1Options.MulticastDepthOfBook.Pitch.v2.39.4]: C1Options.MulticastDepthOfBook.Pitch.v2.39.4 "C1Options.MulticastDepthOfBook.Pitch.v2.39.4"
+[C1Options.OpeningAuction.Csm.v1.0]: C1Options.OpeningAuction.Csm.v1.0 "C1Options.OpeningAuction.Csm.v1.0"
 [CfeFutures.BinaryOrderEntry.Boe3.v1.1.20]: CfeFutures.BinaryOrderEntry.Boe3.v1.1.20 "CfeFutures.BinaryOrderEntry.Boe3.v1.1.20"
 [CfeFutures.MulticastDepthOfBook.Pitch.v1.1.12]: CfeFutures.MulticastDepthOfBook.Pitch.v1.1.12 "CfeFutures.MulticastDepthOfBook.Pitch.v1.1.12"
 [CfeFutures.MulticastDepthOfBook.Pitch.v1.1.6]: CfeFutures.MulticastDepthOfBook.Pitch.v1.1.6 "CfeFutures.MulticastDepthOfBook.Pitch.v1.1.6"
