@@ -1,4 +1,4 @@
-[![Coinbase](https://github.com/Open-Markets-Initiative/Directory/blob/main/Organizations/Coinbase/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Directory/tree/main/Organizations/Coinbase)
+[![Coinbase](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/blob/main/Organizations/Coinbase/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/Coinbase)
 
 # Coinbase Example Data
 

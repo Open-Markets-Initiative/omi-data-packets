@@ -1,4 +1,4 @@
-[![Nasdaq](https://github.com/Open-Markets-Initiative/Directory/blob/main/Organizations/Nasdaq/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Directory/tree/main/Organizations/Nasdaq)
+[![Nasdaq](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/blob/main/Organizations/Nasdaq/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/Nasdaq)
 
 # Nasdaq Example Data
 

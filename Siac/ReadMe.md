@@ -1,4 +1,4 @@
-[![Siac](https://github.com/Open-Markets-Initiative/Directory/blob/main/Organizations/Siac/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Directory/tree/main/Organizations/Siac)
+[![Siac](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/blob/main/Organizations/Siac/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/Siac)
 
 # Siac Example Data
 
