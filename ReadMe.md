@@ -8,13 +8,13 @@ Each folder holds packet captures for one organization, organized by protocol an
 
 ## Open Markets Initiative
 
-[![Omi](https://github.com/Open-Markets-Initiative/Directory/blob/main/About/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Directory/tree/main/About)
+[![Omi](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/blob/main/About/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/About)
 
-[The Open Markets Initiative](https://github.com/Open-Markets-Initiative/Directory/tree/main/About) (Omi) is a market-neutral effort to enhance the stability of electronic financial markets through transparency, modern tooling, and open documentation of the wire protocols that connect them.
+[The Open Markets Initiative](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/About) (Omi) is a market-neutral effort to enhance the stability of electronic financial markets through transparency, modern tooling, and open documentation of the wire protocols that connect them.
 
-For a list of Omi projects: [Omi Projects](https://github.com/Open-Markets-Initiative/Directory/tree/main/Projects "Open Markets Initiative Projects")
+For a list of Omi projects: [Omi Projects](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Projects "Open Markets Initiative Projects")
 
-For details of Omi rules and regulations: [Omi Directory](https://github.com/Open-Markets-Initiative/Directory "Open Markets Initiative Directory")
+For details of Omi rules and regulations: [Omi Directory](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative "Open Markets Initiative Directory")
 
 ---
 

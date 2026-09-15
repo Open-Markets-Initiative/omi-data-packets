@@ -1,4 +1,4 @@
-[![Nyse](https://github.com/Open-Markets-Initiative/Directory/blob/main/Organizations/Nyse/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Directory/tree/main/Organizations/Nyse)
+[![Nyse](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/blob/main/Organizations/Nyse/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/Nyse)
 
 # Nyse Example Data
 

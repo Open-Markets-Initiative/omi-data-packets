@@ -1,4 +1,4 @@
-[![B3](https://github.com/Open-Markets-Initiative/Directory/blob/main/Organizations/B3/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Directory/tree/main/Organizations/B3)
+[![B3](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/blob/main/Organizations/B3/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/B3)
 
 # B3 Example Data
 

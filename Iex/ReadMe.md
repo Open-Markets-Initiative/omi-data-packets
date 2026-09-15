@@ -1,4 +1,4 @@
-[![Iex](https://github.com/Open-Markets-Initiative/Directory/blob/main/Organizations/Iex/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Directory/tree/main/Organizations/Iex)
+[![Iex](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/blob/main/Organizations/Iex/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/Iex)
 
 # Iex Example Data
 

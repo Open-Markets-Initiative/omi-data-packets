@@ -1,4 +1,4 @@
-[![Cboe](https://github.com/Open-Markets-Initiative/Directory/blob/main/Organizations/Cboe/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Directory/tree/main/Organizations/Cboe)
+[![Cboe](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/blob/main/Organizations/Cboe/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/Cboe)
 
 # Cboe Example Data
 

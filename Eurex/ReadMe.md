@@ -1,4 +1,4 @@
-[![Eurex](https://github.com/Open-Markets-Initiative/Directory/blob/main/Organizations/Eurex/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Directory/tree/main/Organizations/Eurex)
+[![Eurex](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/blob/main/Organizations/Eurex/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/Eurex)
 
 # Eurex Example Data
 
