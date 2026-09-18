@@ -15,7 +15,7 @@ Packet captures for Nasdaq, organized by protocol and version.
 | [NsmEquities.TotalView.Itch.v5.0.2023][NsmEquities.TotalView.Itch.v5.0.2023] | [Databento][Databento] |
 | [NtxEquities.TotalView.Itch.v5.0][NtxEquities.TotalView.Itch.v5.0] | [Databento][Databento] |
 | [NtxEquities.TotalView.Itch.v5.0.20230822][NtxEquities.TotalView.Itch.v5.0.20230822] | [Databento][Databento] |
-| [PsxEquities.TotalView.Itch.v5.0.20230822][PsxEquities.TotalView.Itch.v5.0.20230822] | [Databento][Databento] |
+| [PsxEquities.TotalView.Itch.v5.0][PsxEquities.TotalView.Itch.v5.0] | [Databento][Databento] |
 | [Uqdf.Output.Utp.v1.5][Uqdf.Output.Utp.v1.5] | directly from Lseg |
 
 Packet captures have been collected from publicly available sources. If any information is in violation of copyright please let us know and we will remove it.
@@ -29,7 +29,7 @@ Packet captures have been collected from publicly available sources. If any info
 [NsmEquities.TotalView.Itch.v5.0.2023]: NsmEquities.TotalView.Itch.v5.0.2023 "NsmEquities.TotalView.Itch.v5.0.2023"
 [NtxEquities.TotalView.Itch.v5.0]: NtxEquities.TotalView.Itch.v5.0 "NtxEquities.TotalView.Itch.v5.0"
 [NtxEquities.TotalView.Itch.v5.0.20230822]: NtxEquities.TotalView.Itch.v5.0.20230822 "NtxEquities.TotalView.Itch.v5.0.20230822"
-[PsxEquities.TotalView.Itch.v5.0.20230822]: PsxEquities.TotalView.Itch.v5.0.20230822 "PsxEquities.TotalView.Itch.v5.0.20230822"
+[PsxEquities.TotalView.Itch.v5.0]: PsxEquities.TotalView.Itch.v5.0 "PsxEquities.TotalView.Itch.v5.0"
 [Uqdf.Output.Utp.v1.5]: Uqdf.Output.Utp.v1.5 "Uqdf.Output.Utp.v1.5"
 [Databento]: https://databento.com/pcaps "Databento"
 [Issue.53]: https://github.com/Open-Markets-Initiative/wireshark-lua/issues/53 "Open Markets Initiative"

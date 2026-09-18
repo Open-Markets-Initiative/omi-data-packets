@@ -7,11 +7,11 @@ Packet captures for Cboe, organized by protocol and version.
 | Protocol | Source |
 | --- | --- |
 | [ByxEquities.MulticastDepthOfBook.Pitch.v2.41.29][ByxEquities.MulticastDepthOfBook.Pitch.v2.41.29] | [Databento][Databento] |
-| [BzxEquities.BinaryOrderEntry.Boe.v2.4.55][BzxEquities.BinaryOrderEntry.Boe.v2.4.55] | [Open Markets Initiative][Open.Markets.Initiative] |
+| [BzxEquities.BinaryOrderEntry.Boe.v2.3][BzxEquities.BinaryOrderEntry.Boe.v2.3] | [Open Markets Initiative][Open.Markets.Initiative] |
 | [BzxEquities.MulticastDepthOfBook.Pitch.v2.41.29][BzxEquities.MulticastDepthOfBook.Pitch.v2.41.29] | [Databento][Databento.2] |
 | [BzxOptions.BinaryOrderEntry.Boe.v2.10][BzxOptions.BinaryOrderEntry.Boe.v2.10] | [Databento][Databento] |
 | [C1Options.Complex.Pitch.v2.1.18][C1Options.Complex.Pitch.v2.1.18] | [Databento][Databento] |
-| [C1Options.MarketDataFeed.Csm.v1.4.4][C1Options.MarketDataFeed.Csm.v1.4.4] |  |
+| [C1Options.MarketDataFeed.Csm.v1.4.2][C1Options.MarketDataFeed.Csm.v1.4.2] |  |
 | [C1Options.MarketLevel2.Csm.v1.0.4][C1Options.MarketLevel2.Csm.v1.0.4] |  |
 | [C1Options.MulticastDepthOfBook.Pitch.v2.39.4][C1Options.MulticastDepthOfBook.Pitch.v2.39.4] | [Databento][Databento] |
 | [C1Options.OpeningAuction.Csm.v1.0][C1Options.OpeningAuction.Csm.v1.0] |  |
@@ -25,11 +25,11 @@ Packet captures for Cboe, organized by protocol and version.
 Packet captures have been collected from publicly available sources. If any information is in violation of copyright please let us know and we will remove it.
 
 [ByxEquities.MulticastDepthOfBook.Pitch.v2.41.29]: ByxEquities.MulticastDepthOfBook.Pitch.v2.41.29 "ByxEquities.MulticastDepthOfBook.Pitch.v2.41.29"
-[BzxEquities.BinaryOrderEntry.Boe.v2.4.55]: BzxEquities.BinaryOrderEntry.Boe.v2.4.55 "BzxEquities.BinaryOrderEntry.Boe.v2.4.55"
+[BzxEquities.BinaryOrderEntry.Boe.v2.3]: BzxEquities.BinaryOrderEntry.Boe.v2.3 "BzxEquities.BinaryOrderEntry.Boe.v2.3"
 [BzxEquities.MulticastDepthOfBook.Pitch.v2.41.29]: BzxEquities.MulticastDepthOfBook.Pitch.v2.41.29 "BzxEquities.MulticastDepthOfBook.Pitch.v2.41.29"
 [BzxOptions.BinaryOrderEntry.Boe.v2.10]: BzxOptions.BinaryOrderEntry.Boe.v2.10 "BzxOptions.BinaryOrderEntry.Boe.v2.10"
 [C1Options.Complex.Pitch.v2.1.18]: C1Options.Complex.Pitch.v2.1.18 "C1Options.Complex.Pitch.v2.1.18"
-[C1Options.MarketDataFeed.Csm.v1.4.4]: C1Options.MarketDataFeed.Csm.v1.4.4 "C1Options.MarketDataFeed.Csm.v1.4.4"
+[C1Options.MarketDataFeed.Csm.v1.4.2]: C1Options.MarketDataFeed.Csm.v1.4.2 "C1Options.MarketDataFeed.Csm.v1.4.2"
 [C1Options.MarketLevel2.Csm.v1.0.4]: C1Options.MarketLevel2.Csm.v1.0.4 "C1Options.MarketLevel2.Csm.v1.0.4"
 [C1Options.MulticastDepthOfBook.Pitch.v2.39.4]: C1Options.MulticastDepthOfBook.Pitch.v2.39.4 "C1Options.MulticastDepthOfBook.Pitch.v2.39.4"
 [C1Options.OpeningAuction.Csm.v1.0]: C1Options.OpeningAuction.Csm.v1.0 "C1Options.OpeningAuction.Csm.v1.0"
