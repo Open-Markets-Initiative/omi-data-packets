@@ -6,8 +6,8 @@ Packet captures for Box, organized by protocol and version.
 
 | Protocol | Source |
 | --- | --- |
-| [BoxOptions.Sola.Multicast.Hsvf.v1.8][BoxOptions.Sola.Multicast.Hsvf.v1.8] | directly from Box Options Exchange |
+| [BoxOptions.SolaMulticast.Hsvf.v1.8][BoxOptions.SolaMulticast.Hsvf.v1.8] | directly from Box Options Exchange |
 
 Packet captures have been collected from publicly available sources. If any information is in violation of copyright please let us know and we will remove it.
 
-[BoxOptions.Sola.Multicast.Hsvf.v1.8]: BoxOptions.Sola.Multicast.Hsvf.v1.8 "BoxOptions.Sola.Multicast.Hsvf.v1.8"
+[BoxOptions.SolaMulticast.Hsvf.v1.8]: BoxOptions.SolaMulticast.Hsvf.v1.8 "BoxOptions.SolaMulticast.Hsvf.v1.8"
