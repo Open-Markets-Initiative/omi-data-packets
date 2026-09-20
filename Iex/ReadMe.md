@@ -9,7 +9,7 @@ Packet captures for Iex, organized by protocol and version.
 | [IexEquities.Deep.IexTp.v1.06][IexEquities.Deep.IexTp.v1.06] | [Investors Exchange][Investors.Exchange] |
 | [IexEquities.Deep.IexTp.v1.08][IexEquities.Deep.IexTp.v1.08] | [Investors Exchange][Investors.Exchange] |
 | [IexEquities.DeepPlus.IexTp.v1.01][IexEquities.DeepPlus.IexTp.v1.01] | [Investors Exchange][Investors.Exchange] |
-| [IexEquities.DeepPlus.IexTp.v1.04][IexEquities.DeepPlus.IexTp.v1.04] | [Investors Exchange][Investors.Exchange] |
+| [IexEquities.DeepPlus.IexTp.v1.05][IexEquities.DeepPlus.IexTp.v1.05] | [Investors Exchange][Investors.Exchange] |
 | [IexEquities.Tops.IexTp.v1.56][IexEquities.Tops.IexTp.v1.56] | [Investors Exchange][Investors.Exchange] |
 | [IexEquities.Tops.IexTp.v1.64][IexEquities.Tops.IexTp.v1.64] | [Investors Exchange][Investors.Exchange] |
 | [IexEquities.Tops.IexTp.v1.66][IexEquities.Tops.IexTp.v1.66] | [Investors Exchange][Investors.Exchange] |
@@ -19,7 +19,7 @@ Packet captures have been collected from publicly available sources. If any info
 [IexEquities.Deep.IexTp.v1.06]: IexEquities.Deep.IexTp.v1.06 "IexEquities.Deep.IexTp.v1.06"
 [IexEquities.Deep.IexTp.v1.08]: IexEquities.Deep.IexTp.v1.08 "IexEquities.Deep.IexTp.v1.08"
 [IexEquities.DeepPlus.IexTp.v1.01]: IexEquities.DeepPlus.IexTp.v1.01 "IexEquities.DeepPlus.IexTp.v1.01"
-[IexEquities.DeepPlus.IexTp.v1.04]: IexEquities.DeepPlus.IexTp.v1.04 "IexEquities.DeepPlus.IexTp.v1.04"
+[IexEquities.DeepPlus.IexTp.v1.05]: IexEquities.DeepPlus.IexTp.v1.05 "IexEquities.DeepPlus.IexTp.v1.05"
 [IexEquities.Tops.IexTp.v1.56]: IexEquities.Tops.IexTp.v1.56 "IexEquities.Tops.IexTp.v1.56"
 [IexEquities.Tops.IexTp.v1.64]: IexEquities.Tops.IexTp.v1.64 "IexEquities.Tops.IexTp.v1.64"
 [IexEquities.Tops.IexTp.v1.66]: IexEquities.Tops.IexTp.v1.66 "IexEquities.Tops.IexTp.v1.66"
