@@ -11,9 +11,12 @@ Packet captures for Nasdaq, organized by protocol and version.
 | [NsmEquities.NlsPlus.Itch.v3.0][NsmEquities.NlsPlus.Itch.v3.0] | [Databento][Databento] |
 | [NsmEquities.Orders.Ouch.v5.0][NsmEquities.Orders.Ouch.v5.0] | [Issue 53][Issue.53] |
 | [NsmEquities.Qbbo.Itch.v2.1][NsmEquities.Qbbo.Itch.v2.1] | [Databento][Databento] |
+| [NsmEquities.TotalView.Itch.v2.0][NsmEquities.TotalView.Itch.v2.0] | [Nasdaq][Nasdaq] |
+| [NsmEquities.TotalView.Itch.v3.0][NsmEquities.TotalView.Itch.v3.0] | [Nasdaq][Nasdaq] |
+| [NsmEquities.TotalView.Itch.v4.0][NsmEquities.TotalView.Itch.v4.0] | [Nasdaq][Nasdaq] |
 | [NsmEquities.TotalView.Itch.v5.0.2017][NsmEquities.TotalView.Itch.v5.0.2017] | [Databento][Databento] |
 | [NsmEquities.TotalView.Itch.v5.0.2023][NsmEquities.TotalView.Itch.v5.0.2023] | [Databento][Databento] |
-| [NsmEquities.TotalView.Itch.v5.0.2026][NsmEquities.TotalView.Itch.v5.0.2026] | [Nasdaq][Nasdaq] |
+| [NsmEquities.TotalView.Itch.v5.0.2026][NsmEquities.TotalView.Itch.v5.0.2026] | [Nasdaq][Nasdaq.2] |
 | [NtxEquities.TotalView.Itch.v5.0][NtxEquities.TotalView.Itch.v5.0] | [Databento][Databento] |
 | [PsxEquities.TotalView.Itch.v5.0][PsxEquities.TotalView.Itch.v5.0] | [Databento][Databento] |
 | [Uqdf.Output.Utp.v1.5][Uqdf.Output.Utp.v1.5] | directly from Lseg |
@@ -25,6 +28,9 @@ Packet captures have been collected from publicly available sources. If any info
 [NsmEquities.NlsPlus.Itch.v3.0]: NsmEquities.NlsPlus.Itch.v3.0 "NsmEquities.NlsPlus.Itch.v3.0"
 [NsmEquities.Orders.Ouch.v5.0]: NsmEquities.Orders.Ouch.v5.0 "NsmEquities.Orders.Ouch.v5.0"
 [NsmEquities.Qbbo.Itch.v2.1]: NsmEquities.Qbbo.Itch.v2.1 "NsmEquities.Qbbo.Itch.v2.1"
+[NsmEquities.TotalView.Itch.v2.0]: NsmEquities.TotalView.Itch.v2.0 "NsmEquities.TotalView.Itch.v2.0"
+[NsmEquities.TotalView.Itch.v3.0]: NsmEquities.TotalView.Itch.v3.0 "NsmEquities.TotalView.Itch.v3.0"
+[NsmEquities.TotalView.Itch.v4.0]: NsmEquities.TotalView.Itch.v4.0 "NsmEquities.TotalView.Itch.v4.0"
 [NsmEquities.TotalView.Itch.v5.0.2017]: NsmEquities.TotalView.Itch.v5.0.2017 "NsmEquities.TotalView.Itch.v5.0.2017"
 [NsmEquities.TotalView.Itch.v5.0.2023]: NsmEquities.TotalView.Itch.v5.0.2023 "NsmEquities.TotalView.Itch.v5.0.2023"
 [NsmEquities.TotalView.Itch.v5.0.2026]: NsmEquities.TotalView.Itch.v5.0.2026 "NsmEquities.TotalView.Itch.v5.0.2026"
@@ -33,4 +39,5 @@ Packet captures have been collected from publicly available sources. If any info
 [Uqdf.Output.Utp.v1.5]: Uqdf.Output.Utp.v1.5 "Uqdf.Output.Utp.v1.5"
 [Databento]: https://databento.com/pcaps "Databento"
 [Issue.53]: https://github.com/Open-Markets-Initiative/wireshark-lua/issues/53 "Open Markets Initiative"
-[Nasdaq]: https://emi.nasdaq.com/ITCH/Nasdaq%20ITCH/S061226-v50.txt.gz "Nasdaq"
+[Nasdaq]: https://emi.nasdaq.com/ITCH/ "Nasdaq"
+[Nasdaq.2]: https://emi.nasdaq.com/ITCH/Nasdaq%20ITCH/S061226-v50.txt.gz "Nasdaq"
