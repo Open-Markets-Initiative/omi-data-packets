@@ -11,8 +11,8 @@ Packet captures for Nasdaq, organized by protocol and version.
 | [NsmEquities.NlsPlus.Itch.v3.0][NsmEquities.NlsPlus.Itch.v3.0] | [Databento][Databento] |
 | [NsmEquities.Orders.Ouch.v5.0][NsmEquities.Orders.Ouch.v5.0] | [Issue 53][Issue.53] |
 | [NsmEquities.Qbbo.Itch.v2.1][NsmEquities.Qbbo.Itch.v2.1] | [Databento][Databento] |
-| [NsmEquities.TotalView.Itch.v2.0][NsmEquities.TotalView.Itch.v2.0] | [Nasdaq][Nasdaq] |
-| [NsmEquities.TotalView.Itch.v3.0][NsmEquities.TotalView.Itch.v3.0] | [Nasdaq][Nasdaq] |
+| [NsmEquities.TotalView.AsciiItch.v2.0][NsmEquities.TotalView.AsciiItch.v2.0] | [Nasdaq][Nasdaq] |
+| [NsmEquities.TotalView.AsciiItch.v3.0][NsmEquities.TotalView.AsciiItch.v3.0] | [Nasdaq][Nasdaq] |
 | [NsmEquities.TotalView.Itch.v4.0][NsmEquities.TotalView.Itch.v4.0] | [Nasdaq][Nasdaq] |
 | [NsmEquities.TotalView.Itch.v5.0.2017][NsmEquities.TotalView.Itch.v5.0.2017] | [Databento][Databento] |
 | [NsmEquities.TotalView.Itch.v5.0.2023][NsmEquities.TotalView.Itch.v5.0.2023] | [Databento][Databento] |
@@ -28,8 +28,8 @@ Packet captures have been collected from publicly available sources. If any info
 [NsmEquities.NlsPlus.Itch.v3.0]: NsmEquities.NlsPlus.Itch.v3.0 "NsmEquities.NlsPlus.Itch.v3.0"
 [NsmEquities.Orders.Ouch.v5.0]: NsmEquities.Orders.Ouch.v5.0 "NsmEquities.Orders.Ouch.v5.0"
 [NsmEquities.Qbbo.Itch.v2.1]: NsmEquities.Qbbo.Itch.v2.1 "NsmEquities.Qbbo.Itch.v2.1"
-[NsmEquities.TotalView.Itch.v2.0]: NsmEquities.TotalView.Itch.v2.0 "NsmEquities.TotalView.Itch.v2.0"
-[NsmEquities.TotalView.Itch.v3.0]: NsmEquities.TotalView.Itch.v3.0 "NsmEquities.TotalView.Itch.v3.0"
+[NsmEquities.TotalView.AsciiItch.v2.0]: NsmEquities.TotalView.AsciiItch.v2.0 "NsmEquities.TotalView.AsciiItch.v2.0"
+[NsmEquities.TotalView.AsciiItch.v3.0]: NsmEquities.TotalView.AsciiItch.v3.0 "NsmEquities.TotalView.AsciiItch.v3.0"
 [NsmEquities.TotalView.Itch.v4.0]: NsmEquities.TotalView.Itch.v4.0 "NsmEquities.TotalView.Itch.v4.0"
 [NsmEquities.TotalView.Itch.v5.0.2017]: NsmEquities.TotalView.Itch.v5.0.2017 "NsmEquities.TotalView.Itch.v5.0.2017"
 [NsmEquities.TotalView.Itch.v5.0.2023]: NsmEquities.TotalView.Itch.v5.0.2023 "NsmEquities.TotalView.Itch.v5.0.2023"
