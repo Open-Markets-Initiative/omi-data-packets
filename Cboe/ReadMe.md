@@ -9,7 +9,7 @@ Packet captures for Cboe, organized by protocol and version.
 | [ByxEquities.MulticastDepthOfBook.Pitch.v2.41.29][ByxEquities.MulticastDepthOfBook.Pitch.v2.41.29] | [Databento][Databento] |
 | [BzxEquities.BinaryOrderEntry.Boe.v2.3][BzxEquities.BinaryOrderEntry.Boe.v2.3] | [Open Markets Initiative][Open.Markets.Initiative] |
 | [BzxEquities.MulticastDepthOfBook.Pitch.v2.41.29][BzxEquities.MulticastDepthOfBook.Pitch.v2.41.29] | [Databento][Databento.2] |
-| [BzxOptions.BinaryOrderEntry.Boe.v2.10][BzxOptions.BinaryOrderEntry.Boe.v2.10] | [Databento][Databento] |
+| [BzxOptions.BinaryOrderEntry.Boe.v2.10][BzxOptions.BinaryOrderEntry.Boe.v2.10] |  |
 | [C1Options.Complex.Pitch.v2.1.18][C1Options.Complex.Pitch.v2.1.18] | [Databento][Databento] |
 | [C1Options.MarketDataFeed.Csm.v1.4.2][C1Options.MarketDataFeed.Csm.v1.4.2] |  |
 | [C1Options.MarketLevel2.Csm.v1.0.4][C1Options.MarketLevel2.Csm.v1.0.4] |  |
