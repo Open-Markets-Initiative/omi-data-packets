@@ -9,7 +9,7 @@ Packet captures for Cboe, organized by protocol and version.
 | [ByxEquities.MulticastDepthOfBook.Pitch.v2.41.29][ByxEquities.MulticastDepthOfBook.Pitch.v2.41.29] | [Databento][Databento] |
 | [BzxEquities.BinaryOrderEntry.Boe.v2.3][BzxEquities.BinaryOrderEntry.Boe.v2.3] | [Open Markets Initiative][Open.Markets.Initiative] |
 | [BzxEquities.MulticastDepthOfBook.Pitch.v2.41.29][BzxEquities.MulticastDepthOfBook.Pitch.v2.41.29] | [Databento][Databento.2] |
-| [BzxOptions.BinaryOrderEntry.Boe.v2.10][BzxOptions.BinaryOrderEntry.Boe.v2.10] |  |
+| [BzxOptions.BinaryOrderEntry.Boe.v2.10][BzxOptions.BinaryOrderEntry.Boe.v2.10] | [Cboe][Cboe] |
 | [C1Options.Complex.Pitch.v2.1.18][C1Options.Complex.Pitch.v2.1.18] | [Databento][Databento] |
 | [C1Options.MarketDataFeed.Csm.v1.4.2][C1Options.MarketDataFeed.Csm.v1.4.2] |  |
 | [C1Options.MarketLevel2.Csm.v1.0.4][C1Options.MarketLevel2.Csm.v1.0.4] |  |
@@ -42,6 +42,7 @@ Packet captures have been collected from publicly available sources. If any info
 [Databento]: https://databento.com/pcaps "Databento"
 [Open.Markets.Initiative]: https://github.com/Open-Markets-Initiative/omi-data-packets "Open Markets Initiative"
 [Databento.2]: https://sample-pcaps-dl.databento.com/bats/20230822/ "Databento"
+[Cboe]: https://github.com/BATS/bats-dissectors "Cboe"
 [Issue.69]: https://github.com/Open-Markets-Initiative/wireshark-lua/issues/69 "Open Markets Initiative"
 [Databento.3]: https://sample-pcaps-dl.databento.com/edga/20230822/ "Databento"
 [Databento.4]: https://sample-pcaps-dl.databento.com/edgx/20230822/ "Databento"
