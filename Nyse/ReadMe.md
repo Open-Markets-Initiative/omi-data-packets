@@ -20,6 +20,7 @@ Packet captures for Nyse, organized by protocol and version.
 | [NyseEquities.Bbo.Pillar.v2.5.b][NyseEquities.Bbo.Pillar.v2.5.b] | [New York Stock Exchange][New.York.Stock.Exchange] |
 | [NyseEquities.Bbo.Xdp.v2.4.g][NyseEquities.Bbo.Xdp.v2.4.g] | [New York Stock Exchange][New.York.Stock.Exchange] |
 | [NyseEquities.BinaryGateway.PillarStream.v5.17][NyseEquities.BinaryGateway.PillarStream.v5.17] | [Issue 44][Issue.44] |
+| [NyseEquities.BinaryGateway.PillarStream.v6.0][NyseEquities.BinaryGateway.PillarStream.v6.0] | [Issue 83][Issue.83] |
 | [NyseEquities.ImbalancesFeed.Xdp.v2.1.f][NyseEquities.ImbalancesFeed.Xdp.v2.1.f] | [New York Stock Exchange][New.York.Stock.Exchange] |
 | [NyseEquities.ImbalancesFeed.Xdp.v2.2.a][NyseEquities.ImbalancesFeed.Xdp.v2.2.a] | [New York Stock Exchange][New.York.Stock.Exchange] |
 | [NyseEquities.IntegratedFeed.Pillar.v2.5.g][NyseEquities.IntegratedFeed.Pillar.v2.5.g] | [Databento][Databento.3] |
@@ -47,6 +48,7 @@ Packet captures have been collected from publicly available sources. If any info
 [NyseEquities.Bbo.Pillar.v2.5.b]: NyseEquities.Bbo.Pillar.v2.5.b "NyseEquities.Bbo.Pillar.v2.5.b"
 [NyseEquities.Bbo.Xdp.v2.4.g]: NyseEquities.Bbo.Xdp.v2.4.g "NyseEquities.Bbo.Xdp.v2.4.g"
 [NyseEquities.BinaryGateway.PillarStream.v5.17]: NyseEquities.BinaryGateway.PillarStream.v5.17 "NyseEquities.BinaryGateway.PillarStream.v5.17"
+[NyseEquities.BinaryGateway.PillarStream.v6.0]: NyseEquities.BinaryGateway.PillarStream.v6.0 "NyseEquities.BinaryGateway.PillarStream.v6.0"
 [NyseEquities.ImbalancesFeed.Xdp.v2.1.f]: NyseEquities.ImbalancesFeed.Xdp.v2.1.f "NyseEquities.ImbalancesFeed.Xdp.v2.1.f"
 [NyseEquities.ImbalancesFeed.Xdp.v2.2.a]: NyseEquities.ImbalancesFeed.Xdp.v2.2.a "NyseEquities.ImbalancesFeed.Xdp.v2.2.a"
 [NyseEquities.IntegratedFeed.Pillar.v2.5.g]: NyseEquities.IntegratedFeed.Pillar.v2.5.g "NyseEquities.IntegratedFeed.Pillar.v2.5.g"
@@ -61,5 +63,6 @@ Packet captures have been collected from publicly available sources. If any info
 [New.York.Stock.Exchange]: https://ftp.nyse.com/Real%20Time%20Data%20Samples/ "New York Stock Exchange"
 [Databento.2]: https://databento.com/pcaps "Databento"
 [Issue.44]: https://github.com/Open-Markets-Initiative/wireshark-lua/issues/44 "Open Markets Initiative"
+[Issue.83]: https://github.com/Open-Markets-Initiative/omi-wireshark-lua/issues/83 "Open Markets Initiative"
 [Databento.3]: https://sample-pcaps-dl.databento.com/xnys/20230822/ "Databento"
 [Databento.4]: https://sample-pcaps-dl.databento.com/xchi/20230822/ "Databento"
