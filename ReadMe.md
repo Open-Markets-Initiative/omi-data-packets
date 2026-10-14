@@ -8,7 +8,7 @@ Each folder holds packet captures for one organization, organized by protocol an
 
 ## Open Markets Initiative
 
-[![Omi](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/blob/main/About/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/About)
+[![Omi](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/raw/main/About/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/About)
 
 [The Open Markets Initiative](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/About) (Omi) is a market-neutral effort to enhance the stability of electronic financial markets through transparency, modern tooling, and open documentation of the wire protocols that connect them.
 
