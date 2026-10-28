@@ -1,6 +1,6 @@
 # Omi Example Data
 
-[![Organizations](https://img.shields.io/badge/Organizations-23-blue)](#organizations) [![Protocols](https://img.shields.io/badge/Protocols-116-green)](#organizations) [![Packets](https://img.shields.io/badge/Packets-962-orange)](#organizations)
+[![Organizations](https://img.shields.io/badge/Organizations-23-blue)](#organizations) [![Protocols](https://img.shields.io/badge/Protocols-121-green)](#organizations) [![Packets](https://img.shields.io/badge/Packets-967-orange)](#organizations)
 
 Sample market data for testing.
 
