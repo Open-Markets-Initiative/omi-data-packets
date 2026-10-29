@@ -1,6 +1,6 @@
 # Omi Example Data
 
-[![Organizations](https://img.shields.io/badge/Organizations-23-blue)](#organizations) [![Protocols](https://img.shields.io/badge/Protocols-121-green)](#organizations) [![Packets](https://img.shields.io/badge/Packets-967-orange)](#organizations)
+[![Organizations](https://img.shields.io/badge/Organizations-24-blue)](#organizations) [![Protocols](https://img.shields.io/badge/Protocols-124-green)](#organizations) [![Packets](https://img.shields.io/badge/Packets-994-orange)](#organizations)
 
 Sample market data for testing.
 
@@ -20,7 +20,7 @@ For details of Omi rules and regulations: [Omi Directory](https://github.com/Ope
 
 ## Organizations
 
-> [Asx](Asx) · [B3](B3) · [BlueOceanAts](BlueOceanAts) · [Box](Box) · [Cboe](Cboe) · [Cme](Cme) · [Coinbase](Coinbase) · [ElectronX](ElectronX) · [Eurex](Eurex) · [Ice](Ice) · [Iex](Iex) · [Imperative](Imperative) · [Jnx](Jnx) · [Jpx](Jpx) · [Koscom](Koscom) · [Memx](Memx) · [Miax](Miax) · [Nasdaq](Nasdaq) · [Nyse](Nyse) · [OtcMarkets](OtcMarkets) · [Siac](Siac) · [Tmx](Tmx) · [Txse](Txse)
+> [Asx](Asx) · [B3](B3) · [BlueOceanAts](BlueOceanAts) · [Box](Box) · [Cboe](Cboe) · [Cme](Cme) · [Coinbase](Coinbase) · [Databento](Databento) · [ElectronX](ElectronX) · [Eurex](Eurex) · [Ice](Ice) · [Iex](Iex) · [Imperative](Imperative) · [Jnx](Jnx) · [Jpx](Jpx) · [Koscom](Koscom) · [Memx](Memx) · [Miax](Miax) · [Nasdaq](Nasdaq) · [Nyse](Nyse) · [OtcMarkets](OtcMarkets) · [Siac](Siac) · [Tmx](Tmx) · [Txse](Txse)
 
 ---
 
