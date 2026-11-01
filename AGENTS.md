@@ -10,7 +10,7 @@ For every organization and protocol published here: [ReadMe](ReadMe.md "Omi Data
 
 - A capture is named after the message it carries, so a fixture for one message is found by name rather than by reading every file in the directory.
 - Most captures hold a single message. A test that needs a sequence, a gap or a recovery exchange will not find one here and should synthesize it.
-- Each directory's `.Packets.xml` manifest lists what the directory holds; read it rather than guessing at capture paths.
+- Each directory's `.Packets.xml` manifest lists what the directory holds, and the transport each capture is carried on (`Transport`: Udp, Tcp or File), which names the model's tree that reads it; read it rather than guessing at capture paths or transports.
 
 ## Where This Came From
 
