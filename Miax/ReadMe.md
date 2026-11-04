@@ -1,4 +1,4 @@
-[![Miax](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/blob/main/Organizations/Miax/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/Miax)
+[![Miax](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/raw/main/Organizations/Miax/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/Miax)
 
 # Miax Example Data
 

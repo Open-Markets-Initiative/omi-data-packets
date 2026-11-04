@@ -1,5 +1,3 @@
-[![Databento](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/blob/main/Organizations/Databento/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/Databento)
-
 # Databento Example Data
 
 Packet captures for Databento, organized by protocol and version.

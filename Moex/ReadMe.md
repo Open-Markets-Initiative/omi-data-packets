@@ -1,5 +1,3 @@
-[![Moex](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/blob/main/Organizations/Moex/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/Moex)
-
 # Moex Example Data
 
 Packet captures for Moex, organized by protocol and version.

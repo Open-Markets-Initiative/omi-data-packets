@@ -1,4 +1,4 @@
-[![Imperative](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/blob/main/Organizations/Imperative/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/Imperative)
+[![Imperative](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/raw/main/Organizations/Imperative/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/Imperative)
 
 # Imperative Example Data
 

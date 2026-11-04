@@ -1,4 +1,4 @@
-[![BlueOceanAts](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/blob/main/Organizations/BlueOceanAts/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/BlueOceanAts)
+[![BlueOceanAts](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/raw/main/Organizations/BlueOceanAts/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/BlueOceanAts)
 
 # BlueOceanAts Example Data
 
