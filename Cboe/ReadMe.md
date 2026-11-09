@@ -11,7 +11,6 @@ Packet captures for Cboe, organized by protocol and version.
 | [BzxEquities.MulticastDepthOfBook.Pitch.v2.20.4][BzxEquities.MulticastDepthOfBook.Pitch.v2.20.4] | [Cboe][Cboe] |
 | [BzxEquities.MulticastDepthOfBook.Pitch.v2.41.29][BzxEquities.MulticastDepthOfBook.Pitch.v2.41.29] | [Databento][Databento.2] |
 | [BzxEquities.MulticastDepthOfBook.Spin.v2.20.4][BzxEquities.MulticastDepthOfBook.Spin.v2.20.4] | [Cboe][Cboe] |
-| [BzxOptions.BinaryOrderEntry.Boe.v2.10][BzxOptions.BinaryOrderEntry.Boe.v2.10] | [Cboe][Cboe] |
 | [C1Options.Complex.Pitch.v2.1.18][C1Options.Complex.Pitch.v2.1.18] | [Databento][Databento] |
 | [C1Options.MarketDataFeed.Csm.v1.4.2][C1Options.MarketDataFeed.Csm.v1.4.2] |  |
 | [C1Options.MarketLevel2.Csm.v1.0.4][C1Options.MarketLevel2.Csm.v1.0.4] |  |
@@ -32,7 +31,6 @@ Packet captures have been collected from publicly available sources. If any info
 [BzxEquities.MulticastDepthOfBook.Pitch.v2.20.4]: BzxEquities.MulticastDepthOfBook.Pitch.v2.20.4 "BzxEquities.MulticastDepthOfBook.Pitch.v2.20.4"
 [BzxEquities.MulticastDepthOfBook.Pitch.v2.41.29]: BzxEquities.MulticastDepthOfBook.Pitch.v2.41.29 "BzxEquities.MulticastDepthOfBook.Pitch.v2.41.29"
 [BzxEquities.MulticastDepthOfBook.Spin.v2.20.4]: BzxEquities.MulticastDepthOfBook.Spin.v2.20.4 "BzxEquities.MulticastDepthOfBook.Spin.v2.20.4"
-[BzxOptions.BinaryOrderEntry.Boe.v2.10]: BzxOptions.BinaryOrderEntry.Boe.v2.10 "BzxOptions.BinaryOrderEntry.Boe.v2.10"
 [C1Options.Complex.Pitch.v2.1.18]: C1Options.Complex.Pitch.v2.1.18 "C1Options.Complex.Pitch.v2.1.18"
 [C1Options.MarketDataFeed.Csm.v1.4.2]: C1Options.MarketDataFeed.Csm.v1.4.2 "C1Options.MarketDataFeed.Csm.v1.4.2"
 [C1Options.MarketLevel2.Csm.v1.0.4]: C1Options.MarketLevel2.Csm.v1.0.4 "C1Options.MarketLevel2.Csm.v1.0.4"
