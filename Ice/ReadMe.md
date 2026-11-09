@@ -1,4 +1,4 @@
-[![Ice](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/blob/main/Organizations/Ice/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/Ice)
+[![Ice](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/raw/main/Organizations/Ice/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/Ice)
 
 # Ice Example Data
 

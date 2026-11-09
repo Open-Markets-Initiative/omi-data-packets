@@ -1,4 +1,4 @@
-[![Asx](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/blob/main/Organizations/Asx/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/Asx)
+[![Asx](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/raw/main/Organizations/Asx/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/Asx)
 
 # Asx Example Data
 

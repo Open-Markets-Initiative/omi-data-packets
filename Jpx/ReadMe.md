@@ -1,5 +1,3 @@
-[![Jpx](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/blob/main/Organizations/Jpx/Images/Logo.png)](https://github.com/Open-Markets-Initiative/Open-Markets-Initiative/tree/main/Organizations/Jpx)
-
 # Jpx Example Data
 
 Packet captures for Jpx, organized by protocol and version.
