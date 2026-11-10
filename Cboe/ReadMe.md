@@ -7,10 +7,11 @@ Packet captures for Cboe, organized by protocol and version.
 | Protocol | Source |
 | --- | --- |
 | [ByxEquities.MulticastDepthOfBook.Pitch.v2.41.29][ByxEquities.MulticastDepthOfBook.Pitch.v2.41.29] | [Databento][Databento] |
-| [BzxEquities.BinaryOrderEntry.Boe.v2.3][BzxEquities.BinaryOrderEntry.Boe.v2.3] | [Open Markets Initiative][Open.Markets.Initiative] |
-| [BzxEquities.MulticastDepthOfBook.Pitch.v2.20.4][BzxEquities.MulticastDepthOfBook.Pitch.v2.20.4] | [Cboe][Cboe] |
+| [BzxEquities.BinaryOrderEntry.Boe][BzxEquities.BinaryOrderEntry.Boe] | [Cboe][Cboe] |
+| [BzxEquities.BinaryOrderEntry.Boe.v2.4.55][BzxEquities.BinaryOrderEntry.Boe.v2.4.55] | [Open Markets Initiative][Open.Markets.Initiative] |
+| [BzxEquities.MulticastDepthOfBook.Pitch.v2.20.4][BzxEquities.MulticastDepthOfBook.Pitch.v2.20.4] | [Cboe][Cboe.2] |
 | [BzxEquities.MulticastDepthOfBook.Pitch.v2.41.29][BzxEquities.MulticastDepthOfBook.Pitch.v2.41.29] | [Databento][Databento.2] |
-| [BzxEquities.MulticastDepthOfBook.Spin.v2.20.4][BzxEquities.MulticastDepthOfBook.Spin.v2.20.4] | [Cboe][Cboe] |
+| [BzxEquities.MulticastDepthOfBook.Spin.v2.20.4][BzxEquities.MulticastDepthOfBook.Spin.v2.20.4] | [Cboe][Cboe.2] |
 | [C1Options.Complex.Pitch.v2.1.18][C1Options.Complex.Pitch.v2.1.18] | [Databento][Databento] |
 | [C1Options.MarketDataFeed.Csm.v1.4.2][C1Options.MarketDataFeed.Csm.v1.4.2] |  |
 | [C1Options.MarketLevel2.Csm.v1.0.4][C1Options.MarketLevel2.Csm.v1.0.4] |  |
@@ -21,13 +22,14 @@ Packet captures for Cboe, organized by protocol and version.
 | [CfeFutures.MulticastDepthOfBook.Pitch.v1.1.6][CfeFutures.MulticastDepthOfBook.Pitch.v1.1.6] | [Databento][Databento] |
 | [EdgaEquities.MulticastDepthOfBook.Pitch.v2.41.29][EdgaEquities.MulticastDepthOfBook.Pitch.v2.41.29] | [Databento][Databento.3] |
 | [EdgxEquities.MulticastDepthOfBook.Pitch.v2.41.29][EdgxEquities.MulticastDepthOfBook.Pitch.v2.41.29] | [Databento][Databento.4] |
-| [GapRequestProxy.Pitch.v1][GapRequestProxy.Pitch.v1] | [Cboe][Cboe] |
+| [GapRequestProxy.Pitch.v1][GapRequestProxy.Pitch.v1] | [Cboe][Cboe.2] |
 | [TitaniumConsolidated.Indices.Cgif.v1.4.13][TitaniumConsolidated.Indices.Cgif.v1.4.13] | [Databento][Databento.5] |
 
 Packet captures have been collected from publicly available sources. If any information is in violation of copyright please let us know and we will remove it.
 
 [ByxEquities.MulticastDepthOfBook.Pitch.v2.41.29]: ByxEquities.MulticastDepthOfBook.Pitch.v2.41.29 "ByxEquities.MulticastDepthOfBook.Pitch.v2.41.29"
-[BzxEquities.BinaryOrderEntry.Boe.v2.3]: BzxEquities.BinaryOrderEntry.Boe.v2.3 "BzxEquities.BinaryOrderEntry.Boe.v2.3"
+[BzxEquities.BinaryOrderEntry.Boe]: BzxEquities.BinaryOrderEntry.Boe "BzxEquities.BinaryOrderEntry.Boe"
+[BzxEquities.BinaryOrderEntry.Boe.v2.4.55]: BzxEquities.BinaryOrderEntry.Boe.v2.4.55 "BzxEquities.BinaryOrderEntry.Boe.v2.4.55"
 [BzxEquities.MulticastDepthOfBook.Pitch.v2.20.4]: BzxEquities.MulticastDepthOfBook.Pitch.v2.20.4 "BzxEquities.MulticastDepthOfBook.Pitch.v2.20.4"
 [BzxEquities.MulticastDepthOfBook.Pitch.v2.41.29]: BzxEquities.MulticastDepthOfBook.Pitch.v2.41.29 "BzxEquities.MulticastDepthOfBook.Pitch.v2.41.29"
 [BzxEquities.MulticastDepthOfBook.Spin.v2.20.4]: BzxEquities.MulticastDepthOfBook.Spin.v2.20.4 "BzxEquities.MulticastDepthOfBook.Spin.v2.20.4"
@@ -44,8 +46,9 @@ Packet captures have been collected from publicly available sources. If any info
 [GapRequestProxy.Pitch.v1]: GapRequestProxy.Pitch.v1 "GapRequestProxy.Pitch.v1"
 [TitaniumConsolidated.Indices.Cgif.v1.4.13]: TitaniumConsolidated.Indices.Cgif.v1.4.13 "TitaniumConsolidated.Indices.Cgif.v1.4.13"
 [Databento]: https://databento.com/pcaps "Databento"
+[Cboe]: https://github.com/BATS/bats-dissectors/blob/a0c2618022de9d358f491001b35be95cd4f3e93c/pcap/boe2_useq.pcap "Cboe"
 [Open.Markets.Initiative]: https://github.com/Open-Markets-Initiative/omi-data-packets "Open Markets Initiative"
-[Cboe]: https://github.com/BATS/bats-dissectors "Cboe"
+[Cboe.2]: https://github.com/BATS/bats-dissectors "Cboe"
 [Databento.2]: https://sample-pcaps-dl.databento.com/bats/20230822/ "Databento"
 [Issue.69]: https://github.com/Open-Markets-Initiative/wireshark-lua/issues/69 "Open Markets Initiative"
 [Databento.3]: https://sample-pcaps-dl.databento.com/edga/20230822/ "Databento"
