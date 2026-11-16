@@ -9,24 +9,37 @@ Packet captures for Nyse, organized by protocol and version.
 | [AmexEquities.IntegratedFeed.Pillar.v2.5.g][AmexEquities.IntegratedFeed.Pillar.v2.5.g] | [Databento][Databento] |
 | [AmexEquities.IntegratedFeed.Xdp.v2.1.g][AmexEquities.IntegratedFeed.Xdp.v2.1.g] | [New York Stock Exchange][New.York.Stock.Exchange] |
 | [AmexEquities.IntegratedFeedRefresh.Pillar.v2.5.g][AmexEquities.IntegratedFeedRefresh.Pillar.v2.5.g] | [Databento][Databento] |
+| [AmexEquities.OpenBook.Aggregated.Xdp.v2.1.d][AmexEquities.OpenBook.Aggregated.Xdp.v2.1.d] | [New York Stock Exchange][New.York.Stock.Exchange] |
+| [AmexEquities.OpenBook.Ultra.v2.1.b][AmexEquities.OpenBook.Ultra.v2.1.b] | [New York Stock Exchange][New.York.Stock.Exchange] |
 | [AmexOptions.ComplexFeed.Xdp.v1.3.a][AmexOptions.ComplexFeed.Xdp.v1.3.a] | [New York Stock Exchange][New.York.Stock.Exchange] |
+| [AmexOptions.DeepFeed.Pillar.v1.2.m][AmexOptions.DeepFeed.Pillar.v1.2.m] | [New York Stock Exchange][New.York.Stock.Exchange.2] |
 | [AmexOptions.DeepFeed.Xdp.v1.3.a][AmexOptions.DeepFeed.Xdp.v1.3.a] | [New York Stock Exchange][New.York.Stock.Exchange] |
+| [AmexOptions.TopFeed.Pillar.v1.2.k][AmexOptions.TopFeed.Pillar.v1.2.k] | [New York Stock Exchange][New.York.Stock.Exchange.3] |
+| [AmexOptions.TopFeed.Xdp.v1.3.a][AmexOptions.TopFeed.Xdp.v1.3.a] | [New York Stock Exchange][New.York.Stock.Exchange] |
+| [ArcaEquities.ArcaBook.Xdp.v1.9.a][ArcaEquities.ArcaBook.Xdp.v1.9.a] | [New York Stock Exchange][New.York.Stock.Exchange] |
 | [ArcaEquities.Bbo.Xdp.v2.4.c][ArcaEquities.Bbo.Xdp.v2.4.c] | [New York Stock Exchange][New.York.Stock.Exchange] |
 | [ArcaEquities.IntegratedFeed.Pillar.v2.5.g][ArcaEquities.IntegratedFeed.Pillar.v2.5.g] | [Databento][Databento.2] |
 | [ArcaEquities.IntegratedFeedRefresh.Pillar.v2.5.g][ArcaEquities.IntegratedFeedRefresh.Pillar.v2.5.g] | [Databento][Databento.2] |
+| [ArcaOptions.ComplexFeed.Pillar.v1.0.h][ArcaOptions.ComplexFeed.Pillar.v1.0.h] | [New York Stock Exchange][New.York.Stock.Exchange] |
+| [ArcaOptions.DeepFeed.Pillar.v1.2.m][ArcaOptions.DeepFeed.Pillar.v1.2.m] | [New York Stock Exchange][New.York.Stock.Exchange.4] |
+| [ArcaOptions.DeepFeed.Xdp.v1.3.a][ArcaOptions.DeepFeed.Xdp.v1.3.a] | [New York Stock Exchange][New.York.Stock.Exchange] |
 | [ArcaOptions.TopFeed.Pillar.v1.2.c][ArcaOptions.TopFeed.Pillar.v1.2.c] | [New York Stock Exchange][New.York.Stock.Exchange] |
 | [NationalEquities.Bbo.Pillar.v2.5.d][NationalEquities.Bbo.Pillar.v2.5.d] | [Databento][Databento.2] |
+| [NationalEquities.IntegratedFeed.Pillar.v2.5.g][NationalEquities.IntegratedFeed.Pillar.v2.5.g] | [New York Stock Exchange][New.York.Stock.Exchange] |
+| [NationalEquities.IntegratedFeedStockSummary.Pillar.v2.5.g][NationalEquities.IntegratedFeedStockSummary.Pillar.v2.5.g] | [New York Stock Exchange][New.York.Stock.Exchange] |
 | [NationalEquities.Trades.Pillar.v2.6][NationalEquities.Trades.Pillar.v2.6] | [Databento][Databento.2] |
-| [NyseBonds.DepthOfBook.Abp.v4.01.b][NyseBonds.DepthOfBook.Abp.v4.01.b] | [New York Stock Exchange][New.York.Stock.Exchange.2] |
-| [NyseConsolidated.DailyTaqMaster.Csv.v4.3][NyseConsolidated.DailyTaqMaster.Csv.v4.3] | [New York Stock Exchange][New.York.Stock.Exchange.3] |
-| [NyseConsolidated.DailyTaqQuoteLuld.Csv.v4.3][NyseConsolidated.DailyTaqQuoteLuld.Csv.v4.3] | [New York Stock Exchange][New.York.Stock.Exchange.4] |
-| [NyseConsolidated.DailyTaqQuotes.Csv.v4.3][NyseConsolidated.DailyTaqQuotes.Csv.v4.3] | [New York Stock Exchange][New.York.Stock.Exchange.5] |
-| [NyseConsolidated.DailyTaqTradeLuld.Csv.v4.3][NyseConsolidated.DailyTaqTradeLuld.Csv.v4.3] | [New York Stock Exchange][New.York.Stock.Exchange.6] |
-| [NyseConsolidated.DailyTaqTrades.Csv.v4.3][NyseConsolidated.DailyTaqTrades.Csv.v4.3] | [New York Stock Exchange][New.York.Stock.Exchange.7] |
+| [NyseBonds.DepthOfBook.Abp.v4.01.b][NyseBonds.DepthOfBook.Abp.v4.01.b] | [New York Stock Exchange][New.York.Stock.Exchange.5] |
+| [NyseConsolidated.DailyTaqMaster.Csv.v4.3][NyseConsolidated.DailyTaqMaster.Csv.v4.3] | [New York Stock Exchange][New.York.Stock.Exchange.6] |
+| [NyseConsolidated.DailyTaqQuoteLuld.Csv.v4.3][NyseConsolidated.DailyTaqQuoteLuld.Csv.v4.3] | [New York Stock Exchange][New.York.Stock.Exchange.7] |
+| [NyseConsolidated.DailyTaqQuotes.Csv.v4.3][NyseConsolidated.DailyTaqQuotes.Csv.v4.3] | [New York Stock Exchange][New.York.Stock.Exchange.8] |
+| [NyseConsolidated.DailyTaqTradeLuld.Csv.v4.3][NyseConsolidated.DailyTaqTradeLuld.Csv.v4.3] | [New York Stock Exchange][New.York.Stock.Exchange.9] |
+| [NyseConsolidated.DailyTaqTrades.Csv.v4.3][NyseConsolidated.DailyTaqTrades.Csv.v4.3] | [New York Stock Exchange][New.York.Stock.Exchange.10] |
 | [NyseEquities.Bbo.Pillar.v2.5.b][NyseEquities.Bbo.Pillar.v2.5.b] | [New York Stock Exchange][New.York.Stock.Exchange] |
 | [NyseEquities.Bbo.Xdp.v2.4.g][NyseEquities.Bbo.Xdp.v2.4.g] | [New York Stock Exchange][New.York.Stock.Exchange] |
 | [NyseEquities.BinaryGateway.PillarStream.v5.17][NyseEquities.BinaryGateway.PillarStream.v5.17] | [Issue 44][Issue.44] |
 | [NyseEquities.BinaryGateway.PillarStream.v6.0][NyseEquities.BinaryGateway.PillarStream.v6.0] | [Issue 83][Issue.83] |
+| [NyseEquities.Bqt.Xdp.v2.1.a][NyseEquities.Bqt.Xdp.v2.1.a] | [New York Stock Exchange][New.York.Stock.Exchange.11] |
+| [NyseEquities.DepthFeed.Pillar.v1.1][NyseEquities.DepthFeed.Pillar.v1.1] | [New York Stock Exchange][New.York.Stock.Exchange] |
 | [NyseEquities.ImbalancesFeed.Xdp.v2.1.f][NyseEquities.ImbalancesFeed.Xdp.v2.1.f] | [New York Stock Exchange][New.York.Stock.Exchange] |
 | [NyseEquities.ImbalancesFeed.Xdp.v2.2.a][NyseEquities.ImbalancesFeed.Xdp.v2.2.a] | [New York Stock Exchange][New.York.Stock.Exchange] |
 | [NyseEquities.IntegratedFeed.Pillar.v2.5.g][NyseEquities.IntegratedFeed.Pillar.v2.5.g] | [Databento][Databento.3] |
@@ -34,6 +47,7 @@ Packet captures for Nyse, organized by protocol and version.
 | [NyseEquities.IntegratedFeed.Xdp.v2.3.a][NyseEquities.IntegratedFeed.Xdp.v2.3.a] | [New York Stock Exchange][New.York.Stock.Exchange] |
 | [NyseEquities.IntegratedFeedRefresh.Pillar.v2.5.g][NyseEquities.IntegratedFeedRefresh.Pillar.v2.5.g] | [Databento][Databento.3] |
 | [NyseEquities.IntegratedFeedRetransmission.Pillar.v2.5.g][NyseEquities.IntegratedFeedRetransmission.Pillar.v2.5.g] | [Databento][Databento.3] |
+| [NyseEquities.OpenBook.Aggregated.Xdp.v2.1.d][NyseEquities.OpenBook.Aggregated.Xdp.v2.1.d] | [New York Stock Exchange][New.York.Stock.Exchange] |
 | [NyseEquities.OpenBook.Ultra.v2.1.b][NyseEquities.OpenBook.Ultra.v2.1.b] | [New York Stock Exchange][New.York.Stock.Exchange] |
 | [TexasEquities.IntegratedFeed.Pillar.v2.5.g][TexasEquities.IntegratedFeed.Pillar.v2.5.g] | [Databento][Databento.4] |
 | [TexasEquities.IntegratedFeedRefresh.Pillar.v2.5.g][TexasEquities.IntegratedFeedRefresh.Pillar.v2.5.g] | [Databento][Databento.4] |
@@ -43,13 +57,24 @@ Packet captures have been collected from publicly available sources. If any info
 [AmexEquities.IntegratedFeed.Pillar.v2.5.g]: AmexEquities.IntegratedFeed.Pillar.v2.5.g "AmexEquities.IntegratedFeed.Pillar.v2.5.g"
 [AmexEquities.IntegratedFeed.Xdp.v2.1.g]: AmexEquities.IntegratedFeed.Xdp.v2.1.g "AmexEquities.IntegratedFeed.Xdp.v2.1.g"
 [AmexEquities.IntegratedFeedRefresh.Pillar.v2.5.g]: AmexEquities.IntegratedFeedRefresh.Pillar.v2.5.g "AmexEquities.IntegratedFeedRefresh.Pillar.v2.5.g"
+[AmexEquities.OpenBook.Aggregated.Xdp.v2.1.d]: AmexEquities.OpenBook.Aggregated.Xdp.v2.1.d "AmexEquities.OpenBook.Aggregated.Xdp.v2.1.d"
+[AmexEquities.OpenBook.Ultra.v2.1.b]: AmexEquities.OpenBook.Ultra.v2.1.b "AmexEquities.OpenBook.Ultra.v2.1.b"
 [AmexOptions.ComplexFeed.Xdp.v1.3.a]: AmexOptions.ComplexFeed.Xdp.v1.3.a "AmexOptions.ComplexFeed.Xdp.v1.3.a"
+[AmexOptions.DeepFeed.Pillar.v1.2.m]: AmexOptions.DeepFeed.Pillar.v1.2.m "AmexOptions.DeepFeed.Pillar.v1.2.m"
 [AmexOptions.DeepFeed.Xdp.v1.3.a]: AmexOptions.DeepFeed.Xdp.v1.3.a "AmexOptions.DeepFeed.Xdp.v1.3.a"
+[AmexOptions.TopFeed.Pillar.v1.2.k]: AmexOptions.TopFeed.Pillar.v1.2.k "AmexOptions.TopFeed.Pillar.v1.2.k"
+[AmexOptions.TopFeed.Xdp.v1.3.a]: AmexOptions.TopFeed.Xdp.v1.3.a "AmexOptions.TopFeed.Xdp.v1.3.a"
+[ArcaEquities.ArcaBook.Xdp.v1.9.a]: ArcaEquities.ArcaBook.Xdp.v1.9.a "ArcaEquities.ArcaBook.Xdp.v1.9.a"
 [ArcaEquities.Bbo.Xdp.v2.4.c]: ArcaEquities.Bbo.Xdp.v2.4.c "ArcaEquities.Bbo.Xdp.v2.4.c"
 [ArcaEquities.IntegratedFeed.Pillar.v2.5.g]: ArcaEquities.IntegratedFeed.Pillar.v2.5.g "ArcaEquities.IntegratedFeed.Pillar.v2.5.g"
 [ArcaEquities.IntegratedFeedRefresh.Pillar.v2.5.g]: ArcaEquities.IntegratedFeedRefresh.Pillar.v2.5.g "ArcaEquities.IntegratedFeedRefresh.Pillar.v2.5.g"
+[ArcaOptions.ComplexFeed.Pillar.v1.0.h]: ArcaOptions.ComplexFeed.Pillar.v1.0.h "ArcaOptions.ComplexFeed.Pillar.v1.0.h"
+[ArcaOptions.DeepFeed.Pillar.v1.2.m]: ArcaOptions.DeepFeed.Pillar.v1.2.m "ArcaOptions.DeepFeed.Pillar.v1.2.m"
+[ArcaOptions.DeepFeed.Xdp.v1.3.a]: ArcaOptions.DeepFeed.Xdp.v1.3.a "ArcaOptions.DeepFeed.Xdp.v1.3.a"
 [ArcaOptions.TopFeed.Pillar.v1.2.c]: ArcaOptions.TopFeed.Pillar.v1.2.c "ArcaOptions.TopFeed.Pillar.v1.2.c"
 [NationalEquities.Bbo.Pillar.v2.5.d]: NationalEquities.Bbo.Pillar.v2.5.d "NationalEquities.Bbo.Pillar.v2.5.d"
+[NationalEquities.IntegratedFeed.Pillar.v2.5.g]: NationalEquities.IntegratedFeed.Pillar.v2.5.g "NationalEquities.IntegratedFeed.Pillar.v2.5.g"
+[NationalEquities.IntegratedFeedStockSummary.Pillar.v2.5.g]: NationalEquities.IntegratedFeedStockSummary.Pillar.v2.5.g "NationalEquities.IntegratedFeedStockSummary.Pillar.v2.5.g"
 [NationalEquities.Trades.Pillar.v2.6]: NationalEquities.Trades.Pillar.v2.6 "NationalEquities.Trades.Pillar.v2.6"
 [NyseBonds.DepthOfBook.Abp.v4.01.b]: NyseBonds.DepthOfBook.Abp.v4.01.b "NyseBonds.DepthOfBook.Abp.v4.01.b"
 [NyseConsolidated.DailyTaqMaster.Csv.v4.3]: NyseConsolidated.DailyTaqMaster.Csv.v4.3 "NyseConsolidated.DailyTaqMaster.Csv.v4.3"
@@ -61,6 +86,8 @@ Packet captures have been collected from publicly available sources. If any info
 [NyseEquities.Bbo.Xdp.v2.4.g]: NyseEquities.Bbo.Xdp.v2.4.g "NyseEquities.Bbo.Xdp.v2.4.g"
 [NyseEquities.BinaryGateway.PillarStream.v5.17]: NyseEquities.BinaryGateway.PillarStream.v5.17 "NyseEquities.BinaryGateway.PillarStream.v5.17"
 [NyseEquities.BinaryGateway.PillarStream.v6.0]: NyseEquities.BinaryGateway.PillarStream.v6.0 "NyseEquities.BinaryGateway.PillarStream.v6.0"
+[NyseEquities.Bqt.Xdp.v2.1.a]: NyseEquities.Bqt.Xdp.v2.1.a "NyseEquities.Bqt.Xdp.v2.1.a"
+[NyseEquities.DepthFeed.Pillar.v1.1]: NyseEquities.DepthFeed.Pillar.v1.1 "NyseEquities.DepthFeed.Pillar.v1.1"
 [NyseEquities.ImbalancesFeed.Xdp.v2.1.f]: NyseEquities.ImbalancesFeed.Xdp.v2.1.f "NyseEquities.ImbalancesFeed.Xdp.v2.1.f"
 [NyseEquities.ImbalancesFeed.Xdp.v2.2.a]: NyseEquities.ImbalancesFeed.Xdp.v2.2.a "NyseEquities.ImbalancesFeed.Xdp.v2.2.a"
 [NyseEquities.IntegratedFeed.Pillar.v2.5.g]: NyseEquities.IntegratedFeed.Pillar.v2.5.g "NyseEquities.IntegratedFeed.Pillar.v2.5.g"
@@ -68,19 +95,24 @@ Packet captures have been collected from publicly available sources. If any info
 [NyseEquities.IntegratedFeed.Xdp.v2.3.a]: NyseEquities.IntegratedFeed.Xdp.v2.3.a "NyseEquities.IntegratedFeed.Xdp.v2.3.a"
 [NyseEquities.IntegratedFeedRefresh.Pillar.v2.5.g]: NyseEquities.IntegratedFeedRefresh.Pillar.v2.5.g "NyseEquities.IntegratedFeedRefresh.Pillar.v2.5.g"
 [NyseEquities.IntegratedFeedRetransmission.Pillar.v2.5.g]: NyseEquities.IntegratedFeedRetransmission.Pillar.v2.5.g "NyseEquities.IntegratedFeedRetransmission.Pillar.v2.5.g"
+[NyseEquities.OpenBook.Aggregated.Xdp.v2.1.d]: NyseEquities.OpenBook.Aggregated.Xdp.v2.1.d "NyseEquities.OpenBook.Aggregated.Xdp.v2.1.d"
 [NyseEquities.OpenBook.Ultra.v2.1.b]: NyseEquities.OpenBook.Ultra.v2.1.b "NyseEquities.OpenBook.Ultra.v2.1.b"
 [TexasEquities.IntegratedFeed.Pillar.v2.5.g]: TexasEquities.IntegratedFeed.Pillar.v2.5.g "TexasEquities.IntegratedFeed.Pillar.v2.5.g"
 [TexasEquities.IntegratedFeedRefresh.Pillar.v2.5.g]: TexasEquities.IntegratedFeedRefresh.Pillar.v2.5.g "TexasEquities.IntegratedFeedRefresh.Pillar.v2.5.g"
 [Databento]: https://sample-pcaps-dl.databento.com/xase/20230822/ "Databento"
 [New.York.Stock.Exchange]: https://ftp.nyse.com/Real%20Time%20Data%20Samples/ "New York Stock Exchange"
+[New.York.Stock.Exchange.2]: https://ftp.nyse.com/Real%20Time%20Data%20Samples/Amex_Arca_Options/Pillar_AOP_Deep_Pub_96_0.zip "New York Stock Exchange"
+[New.York.Stock.Exchange.3]: https://ftp.nyse.com/Real%20Time%20Data%20Samples/Amex_Arca_Options/Pillar_AOP_BBO_Pub_96_96.zip "New York Stock Exchange"
 [Databento.2]: https://databento.com/pcaps "Databento"
-[New.York.Stock.Exchange.2]: https://www.nyse.com/publicdocs/nyse/data/NYSE_Bonds_Sample_Data.zip "New York Stock Exchange"
-[New.York.Stock.Exchange.3]: ftp://ftp.nyse.com/Historical%20Data%20Samples/DAILY%20TAQ/EQY_US_ALL_REF_MASTER_20260701.gz "New York Stock Exchange"
-[New.York.Stock.Exchange.4]: ftp://ftp.nyse.com/Historical%20Data%20Samples/DAILY%20TAQ/EQY_US_ALL_BBO_ADMIN_20260701.gz "New York Stock Exchange"
-[New.York.Stock.Exchange.5]: ftp://ftp.nyse.com/Historical%20Data%20Samples/DAILY%20TAQ/SPLITS_US_ALL_BBO_J_20260701.gz "New York Stock Exchange"
-[New.York.Stock.Exchange.6]: ftp://ftp.nyse.com/Historical%20Data%20Samples/DAILY%20TAQ/EQY_US_ALL_TRADE_ADMIN_20260701.gz "New York Stock Exchange"
-[New.York.Stock.Exchange.7]: ftp://ftp.nyse.com/Historical%20Data%20Samples/DAILY%20TAQ/EQY_US_ALL_TRADE_20260701.gz "New York Stock Exchange"
+[New.York.Stock.Exchange.4]: https://ftp.nyse.com/Real%20Time%20Data%20Samples/Amex_Arca_Options/PILLAR_ARCO_Deep_pub_A_test_20211211.zip "New York Stock Exchange"
+[New.York.Stock.Exchange.5]: https://www.nyse.com/publicdocs/nyse/data/NYSE_Bonds_Sample_Data.zip "New York Stock Exchange"
+[New.York.Stock.Exchange.6]: ftp://ftp.nyse.com/Historical%20Data%20Samples/DAILY%20TAQ/EQY_US_ALL_REF_MASTER_20260701.gz "New York Stock Exchange"
+[New.York.Stock.Exchange.7]: ftp://ftp.nyse.com/Historical%20Data%20Samples/DAILY%20TAQ/EQY_US_ALL_BBO_ADMIN_20260701.gz "New York Stock Exchange"
+[New.York.Stock.Exchange.8]: ftp://ftp.nyse.com/Historical%20Data%20Samples/DAILY%20TAQ/SPLITS_US_ALL_BBO_J_20260701.gz "New York Stock Exchange"
+[New.York.Stock.Exchange.9]: ftp://ftp.nyse.com/Historical%20Data%20Samples/DAILY%20TAQ/EQY_US_ALL_TRADE_ADMIN_20260701.gz "New York Stock Exchange"
+[New.York.Stock.Exchange.10]: ftp://ftp.nyse.com/Historical%20Data%20Samples/DAILY%20TAQ/EQY_US_ALL_TRADE_20260701.gz "New York Stock Exchange"
 [Issue.44]: https://github.com/Open-Markets-Initiative/wireshark-lua/issues/44 "Open Markets Initiative"
 [Issue.83]: https://github.com/Open-Markets-Initiative/omi-wireshark-lua/issues/83 "Open Markets Initiative"
+[New.York.Stock.Exchange.11]: https://ftp.nyse.com/Real%20Time%20Data%20Samples/NYSE%20BQT/NYSEBQT_SSM_PUB_A_11_11_2020_mid_8pm.zip "New York Stock Exchange"
 [Databento.3]: https://sample-pcaps-dl.databento.com/xnys/20230822/ "Databento"
 [Databento.4]: https://sample-pcaps-dl.databento.com/xchi/20230822/ "Databento"

@@ -19,6 +19,7 @@ Packet captures for Cboe, organized by protocol and version.
 | [CfeFutures.BinaryOrderEntry.Boe3.v1.1.20][CfeFutures.BinaryOrderEntry.Boe3.v1.1.20] | [Issue 69][Issue.69] |
 | [CfeFutures.MulticastDepthOfBook.Pitch.v1.1.12][CfeFutures.MulticastDepthOfBook.Pitch.v1.1.12] | [Databento][Databento] |
 | [CfeFutures.MulticastDepthOfBook.Pitch.v1.1.6][CfeFutures.MulticastDepthOfBook.Pitch.v1.1.6] | [Databento][Databento] |
+| [CfeFutures.MulticastTop.Pitch.v1.2.22][CfeFutures.MulticastTop.Pitch.v1.2.22] | [Cboe][Cboe.2] |
 | [EdgaEquities.MulticastDepthOfBook.Pitch.v2.41.29][EdgaEquities.MulticastDepthOfBook.Pitch.v2.41.29] | [Databento][Databento.3] |
 | [EdgxEquities.MulticastDepthOfBook.Pitch.v2.41.29][EdgxEquities.MulticastDepthOfBook.Pitch.v2.41.29] | [Databento][Databento.4] |
 | [GapRequestProxy.Pitch.v1][GapRequestProxy.Pitch.v1] | [Cboe][Cboe] |
@@ -39,6 +40,7 @@ Packet captures have been collected from publicly available sources. If any info
 [CfeFutures.BinaryOrderEntry.Boe3.v1.1.20]: CfeFutures.BinaryOrderEntry.Boe3.v1.1.20 "CfeFutures.BinaryOrderEntry.Boe3.v1.1.20"
 [CfeFutures.MulticastDepthOfBook.Pitch.v1.1.12]: CfeFutures.MulticastDepthOfBook.Pitch.v1.1.12 "CfeFutures.MulticastDepthOfBook.Pitch.v1.1.12"
 [CfeFutures.MulticastDepthOfBook.Pitch.v1.1.6]: CfeFutures.MulticastDepthOfBook.Pitch.v1.1.6 "CfeFutures.MulticastDepthOfBook.Pitch.v1.1.6"
+[CfeFutures.MulticastTop.Pitch.v1.2.22]: CfeFutures.MulticastTop.Pitch.v1.2.22 "CfeFutures.MulticastTop.Pitch.v1.2.22"
 [EdgaEquities.MulticastDepthOfBook.Pitch.v2.41.29]: EdgaEquities.MulticastDepthOfBook.Pitch.v2.41.29 "EdgaEquities.MulticastDepthOfBook.Pitch.v2.41.29"
 [EdgxEquities.MulticastDepthOfBook.Pitch.v2.41.29]: EdgxEquities.MulticastDepthOfBook.Pitch.v2.41.29 "EdgxEquities.MulticastDepthOfBook.Pitch.v2.41.29"
 [GapRequestProxy.Pitch.v1]: GapRequestProxy.Pitch.v1 "GapRequestProxy.Pitch.v1"
@@ -48,6 +50,7 @@ Packet captures have been collected from publicly available sources. If any info
 [Cboe]: https://github.com/BATS/bats-dissectors "Cboe"
 [Databento.2]: https://sample-pcaps-dl.databento.com/bats/20230822/ "Databento"
 [Issue.69]: https://github.com/Open-Markets-Initiative/wireshark-lua/issues/69 "Open Markets Initiative"
+[Cboe.2]: https://www.cboe.com/document/tech-spec/content/technical-specifications/cboe-titanium-cboe-futures-exchange-multicast-top-specification/support/canned-test-data "Cboe"
 [Databento.3]: https://sample-pcaps-dl.databento.com/edga/20230822/ "Databento"
 [Databento.4]: https://sample-pcaps-dl.databento.com/edgx/20230822/ "Databento"
 [Databento.5]: https://sample-pcaps-dl.databento.com/cgif/20251216/ "Databento"

@@ -8,6 +8,7 @@ Packet captures for Nasdaq, organized by protocol and version.
 | --- | --- |
 | [IseOptions.OrderComboFeed.Itch.v1.1][IseOptions.OrderComboFeed.Itch.v1.1] |  |
 | [IseOptions.TopComboQuoteFeed.Itch.v1.0][IseOptions.TopComboQuoteFeed.Itch.v1.0] |  |
+| [NordicDerivatives.DepthOfBook.Itch.v2.22.4][NordicDerivatives.DepthOfBook.Itch.v2.22.4] | [Issue 7038][Issue.7038] |
 | [NsmEquities.NlsPlus.Itch.v3.0][NsmEquities.NlsPlus.Itch.v3.0] | [Databento][Databento] |
 | [NsmEquities.Orders.Ouch.v5.0][NsmEquities.Orders.Ouch.v5.0] | [Issue 53][Issue.53] |
 | [NsmEquities.Qbbo.Itch.v2.1][NsmEquities.Qbbo.Itch.v2.1] | [Databento][Databento] |
@@ -25,6 +26,7 @@ Packet captures have been collected from publicly available sources. If any info
 
 [IseOptions.OrderComboFeed.Itch.v1.1]: IseOptions.OrderComboFeed.Itch.v1.1 "IseOptions.OrderComboFeed.Itch.v1.1"
 [IseOptions.TopComboQuoteFeed.Itch.v1.0]: IseOptions.TopComboQuoteFeed.Itch.v1.0 "IseOptions.TopComboQuoteFeed.Itch.v1.0"
+[NordicDerivatives.DepthOfBook.Itch.v2.22.4]: NordicDerivatives.DepthOfBook.Itch.v2.22.4 "NordicDerivatives.DepthOfBook.Itch.v2.22.4"
 [NsmEquities.NlsPlus.Itch.v3.0]: NsmEquities.NlsPlus.Itch.v3.0 "NsmEquities.NlsPlus.Itch.v3.0"
 [NsmEquities.Orders.Ouch.v5.0]: NsmEquities.Orders.Ouch.v5.0 "NsmEquities.Orders.Ouch.v5.0"
 [NsmEquities.Qbbo.Itch.v2.1]: NsmEquities.Qbbo.Itch.v2.1 "NsmEquities.Qbbo.Itch.v2.1"
@@ -37,6 +39,7 @@ Packet captures have been collected from publicly available sources. If any info
 [NtxEquities.TotalView.Itch.v5.0]: NtxEquities.TotalView.Itch.v5.0 "NtxEquities.TotalView.Itch.v5.0"
 [PsxEquities.TotalView.Itch.v5.0]: PsxEquities.TotalView.Itch.v5.0 "PsxEquities.TotalView.Itch.v5.0"
 [Uqdf.Output.Utp.v1.5]: Uqdf.Output.Utp.v1.5 "Uqdf.Output.Utp.v1.5"
+[Issue.7038]: https://gitlab.com/wireshark/wireshark/-/issues/7038 "Wireshark"
 [Databento]: https://databento.com/pcaps "Databento"
 [Issue.53]: https://github.com/Open-Markets-Initiative/wireshark-lua/issues/53 "Open Markets Initiative"
 [Nasdaq]: https://emi.nasdaq.com/ITCH/ "Nasdaq"
