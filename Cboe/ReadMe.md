@@ -16,10 +16,10 @@ Packet captures for Cboe, organized by protocol and version.
 | [C1Options.MarketLevel2.Csm.v1.0.4][C1Options.MarketLevel2.Csm.v1.0.4] |  |
 | [C1Options.MulticastDepthOfBook.Pitch.v2.39.4][C1Options.MulticastDepthOfBook.Pitch.v2.39.4] | [Databento][Databento] |
 | [C1Options.OpeningAuction.Csm.v1.0][C1Options.OpeningAuction.Csm.v1.0] |  |
-| [CfeFutures.BinaryOrderEntry.Boe3.v1.1.20][CfeFutures.BinaryOrderEntry.Boe3.v1.1.20] | [Issue 69][Issue.69] |
+| [CfeFutures.BinaryOrderEntry.Boe3.v1.0][CfeFutures.BinaryOrderEntry.Boe3.v1.0] | [Issue 69][Issue.69] |
 | [CfeFutures.MulticastDepthOfBook.Pitch.v1.1.12][CfeFutures.MulticastDepthOfBook.Pitch.v1.1.12] | [Databento][Databento] |
 | [CfeFutures.MulticastDepthOfBook.Pitch.v1.1.6][CfeFutures.MulticastDepthOfBook.Pitch.v1.1.6] | [Databento][Databento] |
-| [CfeFutures.MulticastTop.Pitch.v1.2.22][CfeFutures.MulticastTop.Pitch.v1.2.22] | [Cboe][Cboe.2] |
+| [CfeFutures.MulticastTop.Pitch.v1.0.15][CfeFutures.MulticastTop.Pitch.v1.0.15] | [Cboe][Cboe.2] |
 | [EdgaEquities.MulticastDepthOfBook.Pitch.v2.41.29][EdgaEquities.MulticastDepthOfBook.Pitch.v2.41.29] | [Databento][Databento.3] |
 | [EdgxEquities.MulticastDepthOfBook.Pitch.v2.41.29][EdgxEquities.MulticastDepthOfBook.Pitch.v2.41.29] | [Databento][Databento.4] |
 | [GapRequestProxy.Pitch.v1][GapRequestProxy.Pitch.v1] | [Cboe][Cboe] |
@@ -37,10 +37,10 @@ Packet captures have been collected from publicly available sources. If any info
 [C1Options.MarketLevel2.Csm.v1.0.4]: C1Options.MarketLevel2.Csm.v1.0.4 "C1Options.MarketLevel2.Csm.v1.0.4"
 [C1Options.MulticastDepthOfBook.Pitch.v2.39.4]: C1Options.MulticastDepthOfBook.Pitch.v2.39.4 "C1Options.MulticastDepthOfBook.Pitch.v2.39.4"
 [C1Options.OpeningAuction.Csm.v1.0]: C1Options.OpeningAuction.Csm.v1.0 "C1Options.OpeningAuction.Csm.v1.0"
-[CfeFutures.BinaryOrderEntry.Boe3.v1.1.20]: CfeFutures.BinaryOrderEntry.Boe3.v1.1.20 "CfeFutures.BinaryOrderEntry.Boe3.v1.1.20"
+[CfeFutures.BinaryOrderEntry.Boe3.v1.0]: CfeFutures.BinaryOrderEntry.Boe3.v1.0 "CfeFutures.BinaryOrderEntry.Boe3.v1.0"
 [CfeFutures.MulticastDepthOfBook.Pitch.v1.1.12]: CfeFutures.MulticastDepthOfBook.Pitch.v1.1.12 "CfeFutures.MulticastDepthOfBook.Pitch.v1.1.12"
 [CfeFutures.MulticastDepthOfBook.Pitch.v1.1.6]: CfeFutures.MulticastDepthOfBook.Pitch.v1.1.6 "CfeFutures.MulticastDepthOfBook.Pitch.v1.1.6"
-[CfeFutures.MulticastTop.Pitch.v1.2.22]: CfeFutures.MulticastTop.Pitch.v1.2.22 "CfeFutures.MulticastTop.Pitch.v1.2.22"
+[CfeFutures.MulticastTop.Pitch.v1.0.15]: CfeFutures.MulticastTop.Pitch.v1.0.15 "CfeFutures.MulticastTop.Pitch.v1.0.15"
 [EdgaEquities.MulticastDepthOfBook.Pitch.v2.41.29]: EdgaEquities.MulticastDepthOfBook.Pitch.v2.41.29 "EdgaEquities.MulticastDepthOfBook.Pitch.v2.41.29"
 [EdgxEquities.MulticastDepthOfBook.Pitch.v2.41.29]: EdgxEquities.MulticastDepthOfBook.Pitch.v2.41.29 "EdgxEquities.MulticastDepthOfBook.Pitch.v2.41.29"
 [GapRequestProxy.Pitch.v1]: GapRequestProxy.Pitch.v1 "GapRequestProxy.Pitch.v1"
