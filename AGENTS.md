@@ -16,10 +16,11 @@ For every organization and protocol published here: [ReadMe](ReadMe.md "Omi Data
 
 These captures were recorded from publicly available production feeds. They are data, not generated sources: no capture was synthesized, and a capture says what the venue actually sent at the moment it was recorded, including anything irregular about it.
 
-The pages describing them, this one included, are generated. Two patented inventions are what make that generation possible, and what every Omi repository is published from — here they generate the pages and the manifests, not the captures and not the protocols they carry:
+The pages describing them, this one included, are generated. The patented inventions below are what make that generation possible, and what every Omi repository is published from — here they generate the pages and the manifests, not the captures and not the protocols they carry:
 
 - [Universal Binary Specification Model (US12101388B2)](https://patents.google.com/patent/US12101388B2 "Universal Binary Specification Model") — A system and method for creating a normalized, universal model from binary protocol specifications that enables automatic source generation of parsers and related tooling across multiple binary protocols.
 - [Binary Data Model Compiler (US20240419416A1)](https://patents.google.com/patent/US20240419416A1 "Binary Data Model Compiler") — A compiler that takes a normalized binary data model and automatically generates source code for parsing and processing binary protocols, eliminating the need to hand-write parsers for each protocol specification.
+- [Binary Data Model Search and Modification (US20260368281A1)](https://patents.google.com/patent/US20260368281A1 "Binary Data Model Search and Modification") — A system and method for selecting the portions of a generic binary data model that satisfy a set of search criteria and transforming them, by adding, removing, editing, rearranging or combining, into a modified model from which programs and intermediate representations acting on the binary data are generated.
 
 ## Contributing
 
